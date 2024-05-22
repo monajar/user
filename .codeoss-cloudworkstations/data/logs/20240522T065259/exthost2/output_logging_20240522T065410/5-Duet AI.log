@@ -46,3 +46,10 @@ W0522 07:50:07.940977     671 server.go:340] unknown method "textDocument/docume
 W0522 07:50:23.685652     671 server.go:340] unknown method "textDocument/documentLink"
 E0522 07:50:26.951742     671 conversation.go:330] Error getting document contents for request #185: trying to get document with URI uncached
 E0522 07:50:26.951826     671 server.go:194] error fulfilling request #185, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/PR/PR_Model_GA_Data.ipynb#X11sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
+W0522 07:50:46.913064     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:51:23.448963     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:51:30.099111     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:51:37.854952     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:51:42.318003     671 server.go:340] unknown method "textDocument/documentLink"
+E0522 07:51:43.577098     671 conversation.go:330] Error getting document contents for request #253: trying to get document with URI uncached
+E0522 07:51:43.577190     671 server.go:194] error fulfilling request #253, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/PR/PR_Model_GA_Data.ipynb#X11sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
