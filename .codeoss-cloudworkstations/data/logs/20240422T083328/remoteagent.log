@@ -1,0 +1,38 @@
+2024-04-22 08:33:28.960 [info] 
+
+
+
+
+2024-04-22 08:33:28.977 [info] Extension host agent started.
+2024-04-22 08:51:10.069 [info] [127.0.0.1][d0c373a3][ManagementConnection] New connection established.
+2024-04-22 08:51:10.317 [info] [127.0.0.1][a02b3934][ExtensionHostConnection] New connection established.
+2024-04-22 08:51:10.411 [info] [127.0.0.1][a02b3934][ExtensionHostConnection] <463> Launched Extension Host Process.
+2024-04-22 08:51:39.903 [info] [127.0.0.1][d0c373a3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-22 08:51:39.962 [info] [127.0.0.1][a02b3934][ExtensionHostConnection] <463> Extension Host Process exited with code: 0, signal: null.
+2024-04-22 08:51:40.968 [info] [127.0.0.1][7ee06ee1][ManagementConnection] New connection established.
+2024-04-22 08:51:41.245 [info] [127.0.0.1][87d9e5fa][ExtensionHostConnection] New connection established.
+2024-04-22 08:51:41.253 [info] [127.0.0.1][87d9e5fa][ExtensionHostConnection] <580> Launched Extension Host Process.
+2024-04-22 08:55:04.895 [info] [127.0.0.1][87d9e5fa][ExtensionHostConnection] <580> Kernel: starting (2782624e-02cd-4f82-bd89-f5891c64e555)
+
+2024-04-22 09:05:05.837 [info] [127.0.0.1][87d9e5fa][ExtensionHostConnection] The client has reconnected.
+2024-04-22 09:05:06.141 [info] [127.0.0.1][7ee06ee1][ManagementConnection] The client has reconnected.
+2024-04-22 10:06:04.076 [info] [127.0.0.1][7ee06ee1][ManagementConnection] The client has reconnected.
+2024-04-22 10:06:04.471 [info] [127.0.0.1][87d9e5fa][ExtensionHostConnection] The client has reconnected.
+2024-04-22 10:28:40.322 [info] [127.0.0.1][87d9e5fa][ExtensionHostConnection] The client has reconnected.
+2024-04-22 10:28:40.846 [info] [127.0.0.1][7ee06ee1][ManagementConnection] The client has reconnected.
+2024-04-22 11:03:40.716 [info] [127.0.0.1][7ee06ee1][ManagementConnection] The client has reconnected.
+2024-04-22 11:03:41.307 [info] [127.0.0.1][87d9e5fa][ExtensionHostConnection] The client has reconnected.
+2024-04-22 11:39:07.697 [info] [127.0.0.1][87d9e5fa][ExtensionHostConnection] The client has reconnected.
+2024-04-22 11:39:38.350 [info] [127.0.0.1][7ee06ee1][ManagementConnection] The client has reconnected.
+2024-04-22 11:39:38.354 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/opt/code-oss/out/vs/server/node/server.main.js:175:6112)
+    at process.emit (node:events:513:28)
+2024-04-22 11:39:38.356 [info] [127.0.0.1][7ee06ee1][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-04-22 11:39:38.533 [info] [127.0.0.1][7ee06ee1][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-04-22 11:39:38.534 [info] [127.0.0.1][7ee06ee1][ManagementConnection] The client has reconnected.
+2024-04-22 12:32:22.703 [info] [127.0.0.1][7ee06ee1][ManagementConnection] The client has reconnected.
+2024-04-22 12:32:23.205 [info] [127.0.0.1][87d9e5fa][ExtensionHostConnection] The client has reconnected.
+2024-04-22 12:32:38.441 [info] [127.0.0.1][87d9e5fa][ExtensionHostConnection] The client has reconnected.
+2024-04-22 12:34:55.803 [info] [127.0.0.1][7ee06ee1][ManagementConnection] The client has reconnected.
+2024-04-22 13:48:41.422 [info] [127.0.0.1][7ee06ee1][ManagementConnection] The client has reconnected.
+2024-04-22 13:48:41.838 [info] [127.0.0.1][87d9e5fa][ExtensionHostConnection] The client has reconnected.

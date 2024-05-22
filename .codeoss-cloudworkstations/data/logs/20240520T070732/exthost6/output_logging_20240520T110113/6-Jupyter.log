@@ -1,0 +1,104 @@
+Code OSS for Cloud Workstations (1.83.1, 80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev, desktop)
+Jupyter Extension Version: 2023.9.100.
+Python Extension Version: 2024.2.1.
+Platform: linux (x64).
+Workspace folder /home/user, Home = /home/user
+11:01:29.686 [info] <username> belongs to experiment group 'NewJupyterSession'
+11:01:30.375 [info] Start refreshing Kernel Picker (1716202890375)
+11:01:30.380 [info] Using Pylance
+11:01:30.685 [info] Start refreshing Interpreter Kernel Picker
+11:01:32.232 [info] Process Execution: ~/.venv/bin/python -m pip list
+11:02:02.041 [info] End refreshing Kernel Picker (1716202890375)
+12:00:29.519 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for '~/MyCode/PR/PR_Model_GA_Data.ipynb' (disableUI=true)
+12:00:39.880 [info] Handle Execution of Cells 5 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:00:56.322 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+12:00:56.345 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"1e0101d3-72b0-45c3-b72b-7edcc3698216" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-1322l1QS9eURFFM4.json
+    > cwd: ~/MyCode/PR
+12:00:56.379 [info] Process Execution: ~/.venv/bin/python -m pip list
+12:00:56.698 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+12:00:57.311 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+12:00:57.583 [info] Started Kernel .venv (Python 3.11.8) (pid: 2232)
+12:00:57.584 [info] Started new session 64529edb-fc7a-4193-85b4-55915752e8ad
+12:00:57.639 [info] Process Execution: ~/.venv/bin/python ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/pythonFiles/printJupyterDataDir.py
+12:00:57.649 [info] Kernel acknowledged execution of cell 5 @ 1716206457648
+12:00:57.653 [info] End cell 5 execution @ 1716206457652, started @ 1716206457648, elapsed time = 0.004s
+12:00:57.653 [warn] Cancel all remaining cells due to cancellation or failure in execution
+12:03:05.117 [info] Handle Execution of Cells 5 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:03:05.126 [info] Kernel acknowledged execution of cell 5 @ 1716206585126
+12:03:05.131 [info] End cell 5 execution @ 1716206585130, started @ 1716206585126, elapsed time = 0.004s
+12:03:05.131 [warn] Cancel all remaining cells due to cancellation or failure in execution
+12:03:37.342 [info] Handle Execution of Cells 6 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:03:37.349 [info] Kernel acknowledged execution of cell 6 @ 1716206617349
+12:03:38.427 [info] End cell 6 execution @ 1716206618427, started @ 1716206617349, elapsed time = 1.078s
+12:04:46.619 [info] Handle Execution of Cells 5 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:04:46.629 [info] Kernel acknowledged execution of cell 5 @ 1716206686629
+12:04:48.272 [info] End cell 5 execution @ 1716206688272, started @ 1716206686629, elapsed time = 1.643s
+12:06:19.152 [info] Handle Execution of Cells 5 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:06:19.162 [info] Kernel acknowledged execution of cell 5 @ 1716206779161
+12:06:30.757 [info] End cell 5 execution @ 1716206790757, started @ 1716206779161, elapsed time = 11.596s
+12:08:55.583 [info] Loading webview. View is notset
+12:08:55.584 [info] Loading web view...
+12:08:55.585 [info] Webview panel created.
+12:11:05.552 [info] Handle Execution of Cells 6 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:11:05.563 [info] Kernel acknowledged execution of cell 6 @ 1716207065563
+12:11:05.565 [info] End cell 6 execution @ 1716207065565, started @ 1716207065563, elapsed time = 0.002s
+12:13:08.493 [info] Web view react rendered
+12:18:03.837 [info] Handle Execution of Cells 8 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:18:03.848 [info] Kernel acknowledged execution of cell 8 @ 1716207483847
+12:18:06.709 [info] End cell 8 execution @ 1716207486709, started @ 1716207483847, elapsed time = 2.862s
+12:19:55.149 [info] Handle Execution of Cells 10 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:19:55.164 [info] Kernel acknowledged execution of cell 10 @ 1716207595163
+12:19:55.199 [info] End cell 10 execution @ 1716207595199, started @ 1716207595163, elapsed time = 0.036s
+12:25:55.743 [info] Handle Execution of Cells 11 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:25:55.772 [info] Kernel acknowledged execution of cell 11 @ 1716207955771
+12:25:55.774 [info] End cell 11 execution @ 1716207955773, started @ 1716207955771, elapsed time = 0.002s
+12:27:27.698 [info] Handle Execution of Cells 13 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:27:27.709 [info] Kernel acknowledged execution of cell 13 @ 1716208047709
+12:27:27.712 [info] End cell 13 execution @ 1716208047712, started @ 1716208047709, elapsed time = 0.003s
+12:27:58.822 [info] Handle Execution of Cells 14 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:27:58.837 [info] Kernel acknowledged execution of cell 14 @ 1716208078837
+12:27:58.840 [info] End cell 14 execution @ 1716208078840, started @ 1716208078837, elapsed time = 0.003s
+12:29:32.848 [info] Handle Execution of Cells 15 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:29:32.858 [info] Kernel acknowledged execution of cell 15 @ 1716208172857
+12:29:32.864 [info] End cell 15 execution @ 1716208172863, started @ 1716208172857, elapsed time = 0.006s
+12:29:36.362 [info] Handle Execution of Cells 16 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:29:36.369 [info] Kernel acknowledged execution of cell 16 @ 1716208176369
+12:29:36.370 [info] End cell 16 execution @ 1716208176370, started @ 1716208176369, elapsed time = 0.001s
+12:29:39.603 [info] Handle Execution of Cells 17 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:29:39.609 [info] Kernel acknowledged execution of cell 17 @ 1716208179609
+12:29:39.620 [info] End cell 17 execution @ 1716208179620, started @ 1716208179609, elapsed time = 0.011s
+12:32:46.506 [info] Handle Execution of Cells 19 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:32:46.514 [info] Kernel acknowledged execution of cell 19 @ 1716208366514
+12:32:49.801 [info] End cell 19 execution @ 1716208369800, started @ 1716208366514, elapsed time = 3.286s
+12:39:35.296 [info] Handle Execution of Cells 9 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:39:35.304 [info] Kernel acknowledged execution of cell 9 @ 1716208775303
+12:39:36.439 [info] End cell 9 execution @ 1716208776439, started @ 1716208775303, elapsed time = 1.136s
+12:39:43.435 [info] Handle Execution of Cells 10 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:39:43.442 [info] Kernel acknowledged execution of cell 10 @ 1716208783442
+12:39:43.451 [info] End cell 10 execution @ 1716208783451, started @ 1716208783442, elapsed time = 0.009s
+12:39:54.428 [info] Loading webview. View is notset
+12:39:54.429 [info] Loading web view...
+12:39:54.431 [info] Webview panel created.
+12:42:01.341 [info] Web view react rendered
+12:42:59.011 [info] Handle Execution of Cells 22 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:42:59.029 [info] Kernel acknowledged execution of cell 22 @ 1716208979028
+12:42:59.496 [info] End cell 22 execution @ 1716208979495, started @ 1716208979028, elapsed time = 0.467s
+12:44:10.075 [info] Process Execution: ~/.venv/bin/python -c "import pandas;print(pandas.__version__)"
+12:46:41.134 [info] Handle Execution of Cells 23 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+12:46:41.151 [info] Kernel acknowledged execution of cell 23 @ 1716209201151
+12:46:41.354 [info] End cell 23 execution @ 1716209201354, started @ 1716209201151, elapsed time = 0.203s
+12:54:02.144 [info] Disposing HostJupyterExecution
+12:54:02.144 [info] Shutting down notebooks for 539dba52-7e48-4c78-956e-ad765881e9f1
+12:54:02.145 [info] Dispose Kernel '~/MyCode/PR/PR_Model_GA_Data.ipynb' associated with '~/MyCode/PR/PR_Model_GA_Data.ipynb'
+12:54:02.147 [info] Dispose Kernel process 2232.
+12:54:02.183 [info] Disposing HostJupyterExecution
+12:54:02.235 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-1322l1QS9eURFFM4.json for pid 2232 [Canceled (FileSystemError): Canceled
+	at E.e (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.stat (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:127:24555)
+	at async fp.delete (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:17:19371)
+	at async ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:88616] {
+  code: 'Unknown'
+}

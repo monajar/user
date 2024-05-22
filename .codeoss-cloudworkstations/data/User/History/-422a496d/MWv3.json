@@ -1,0 +1,6 @@
+{
+    "http.proxySupport": "off",
+    "cloudWorkstations.portsView.enabled": true,
+    "workbench.colorTheme": "Default Dark Modern",
+    "cloudcode.duetAI.project": "spmena-sandbox-gcc-apac-dv"
+}

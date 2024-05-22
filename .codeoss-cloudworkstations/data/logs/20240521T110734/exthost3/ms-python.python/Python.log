@@ -1,0 +1,35 @@
+2024-05-21 12:41:27.800 [info] Default formatter is set to null for workspace /home/user
+2024-05-21 12:41:27.800 [info] Test server listening.
+2024-05-21 12:41:27.800 [info] > conda info --json
+2024-05-21 12:41:27.800 [info] Python interpreter path: ./.venv/bin/python
+2024-05-21 12:41:41.500 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/printEnvVariables.py
+2024-05-21 12:41:41.501 [info] shell: bash
+2024-05-21 12:41:42.915 [info] Starting Jedi language server for user.
+2024-05-21 12:41:43.796 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/printEnvVariables.py
+2024-05-21 12:41:43.796 [info] shell: bash
+2024-05-21 12:41:44.136 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-05-21 12:41:44.136 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-05-21 12:41:44.136 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-05-21 12:46:33.826 [info] Discover tests for workspace name: user - uri: /home/user/ultralytics/pyproject.toml
+2024-05-21 12:48:43.973 [info] Send text to terminal: source /home/user/.venv/bin/activate
+2024-05-21 12:49:12.105 [info] Found: /bin/python --> /usr/local/bin/python3.10
+2024-05-21 12:49:12.108 [info] Found: /bin/python3 --> /usr/bin/python3.8
+2024-05-21 12:49:12.108 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-05-21 12:49:12.108 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-05-21 12:49:12.109 [info] Found: /bin/python3.8 --> /bin/python3.8
+2024-05-21 12:49:12.146 [info] > ./.venv/bin/python -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 12:49:12.162 [info] Found: /usr/bin/python --> /usr/local/bin/python3.10
+2024-05-21 12:49:12.163 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2024-05-21 12:49:12.163 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-05-21 12:49:12.163 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-05-21 12:49:12.164 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-05-21 12:49:12.173 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.10
+2024-05-21 12:49:12.174 [info] Found: /usr/local/bin/python3.10 --> /usr/local/bin/python3.10
+2024-05-21 12:49:12.216 [info] > /bin/python -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 12:49:12.263 [info] > /bin/python3 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 12:49:12.341 [info] > /bin/python3.10 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 12:49:12.398 [info] > /bin/python3.11 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 12:49:12.430 [info] > /bin/python3.8 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 12:49:12.474 [info] > /usr/bin/python3.10 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 12:49:12.505 [info] > /usr/bin/python3.11 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 12:57:58.301 [info] Discover tests for workspace name: user - uri: /home/user/ultralytics/pyproject.toml

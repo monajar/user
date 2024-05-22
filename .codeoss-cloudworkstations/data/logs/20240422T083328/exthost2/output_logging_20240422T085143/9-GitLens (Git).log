@@ -1,0 +1,6 @@
+[2024-04-22 08:52:34.504] [     20ms] [/home/user] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --abbrev-ref --symbolic-full-name @ @{u} --
+fatal: bad revision '@'
+
+

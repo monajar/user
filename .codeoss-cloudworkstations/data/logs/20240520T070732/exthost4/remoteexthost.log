@@ -1,0 +1,13 @@
+2024-05-20 11:00:04.557 [info] Extension host with pid 1037 started
+2024-05-20 11:00:04.577 [info] Lock '/home/user/.codeoss-cloudworkstations/data/User/workspaceStorage/-20fdb97a/vscode.lock': Lock acquired.
+2024-05-20 11:00:04.911 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-20 11:00:05.233 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-20 11:00:05.234 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-20 11:00:05.739 [info] Eager extensions activated
+2024-05-20 11:00:05.740 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-20 11:00:05.740 [info] ExtensionService#_doActivateExtension google.cloud-workstations, startup: false, activationEvent: 'onStartupFinished'
+2024-05-20 11:00:05.740 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-20 11:00:05.740 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-20 11:00:17.994 [info] Extension host terminating: received terminate message from renderer
+2024-05-20 11:00:17.995 [info] Lock '/home/user/.codeoss-cloudworkstations/data/User/workspaceStorage/-20fdb97a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-05-20 11:00:18.011 [info] Extension host with pid 1037 exiting with code 0

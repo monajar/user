@@ -1,0 +1,2 @@
+GitLens v14.9.1 activating in Code OSS for Cloud Workstations (1.83.1) on the web; language='en', logLevel='warn', defaultDateLocale='null' (someValue.machineId|someValue.sessionId)
+To enable debug logging, set `"gitlens.outputLevel: "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette

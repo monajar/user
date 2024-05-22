@@ -1,0 +1,6 @@
+2024-04-22 08:54:59.017 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1"
+
+2024-04-22 08:54:59.020 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3"
+
+2024-04-22 08:54:59.020 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2"
+

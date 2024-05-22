@@ -1,0 +1,78 @@
+Code OSS for Cloud Workstations (1.83.1, 80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev, desktop)
+Jupyter Extension Version: 2023.9.100.
+Python Extension Version: 2024.2.1.
+Platform: linux (x64).
+Workspace folder /home/user, Home = /home/user
+12:41:25.780 [info] <username> belongs to experiment group 'NewJupyterSession'
+12:41:26.254 [info] Start refreshing Kernel Picker (1716295286254)
+12:41:26.261 [info] Using Pylance
+12:41:34.933 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for '~/MyCode/RTOD/Main.ipynb' (disableUI=true)
+12:41:41.621 [info] Process Execution: ~/.venv/bin/python -m pip list
+12:41:43.860 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+12:41:43.893 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"f193f8c0-6c40-4a10-9ef2-fda91b629f16" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-170492AuKZ8huNtV.json
+    > cwd: ~/MyCode/RTOD
+12:41:44.088 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+12:41:44.354 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+12:41:44.593 [info] Started Kernel .venv (Python 3.11.8) (pid: 1926)
+12:41:44.594 [info] Started new session ce991bea-391b-46a5-8d85-7a93dbb1c6a8
+12:41:44.698 [info] Process Execution: ~/.venv/bin/python ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/pythonFiles/printJupyterDataDir.py
+12:41:44.789 [info] Handle Execution of Cells 0 for ~/MyCode/RTOD/Main.ipynb
+12:41:44.801 [info] Kernel acknowledged execution of cell 0 @ 1716295304800
+12:41:46.309 [info] End refreshing Kernel Picker (1716295286254)
+12:41:47.912 [info] End cell 0 execution @ 1716295307911, started @ 1716295304800, elapsed time = 3.111s
+12:44:22.685 [info] Handle Execution of Cells 2 for ~/MyCode/RTOD/Main.ipynb
+12:44:22.713 [info] Kernel acknowledged execution of cell 2 @ 1716295462712
+12:44:22.717 [info] End cell 2 execution @ 1716295462717, started @ 1716295462712, elapsed time = 0.005s
+12:44:22.718 [warn] Cancel all remaining cells due to cancellation or failure in execution
+12:49:12.089 [info] Start refreshing Interpreter Kernel Picker
+12:49:12.089 [info] Start refreshing Kernel Picker (1716295752089)
+12:57:27.005 [info] End refreshing Kernel Picker (1716295752089)
+12:59:50.200 [info] Handle Execution of Cells 1 for ~/MyCode/RTOD/Main.ipynb
+12:59:50.212 [info] Kernel acknowledged execution of cell 1 @ 1716296390211
+12:59:50.392 [info] End cell 1 execution @ 1716296390391, started @ 1716296390211, elapsed time = 0.18s
+12:59:50.392 [warn] Cancel all remaining cells due to cancellation or failure in execution
+13:00:01.001 [info] Handle Execution of Cells 1 for ~/MyCode/RTOD/Main.ipynb
+13:00:01.011 [info] Kernel acknowledged execution of cell 1 @ 1716296401011
+13:00:01.028 [info] End cell 1 execution @ 1716296401027, started @ 1716296401011, elapsed time = 0.016s
+13:00:01.028 [warn] Cancel all remaining cells due to cancellation or failure in execution
+13:00:18.822 [info] Handle Execution of Cells 1 for ~/MyCode/RTOD/Main.ipynb
+13:00:18.829 [info] Kernel acknowledged execution of cell 1 @ 1716296418829
+13:00:24.062 [info] End cell 1 execution @ 1716296424062, started @ 1716296418829, elapsed time = 5.233s
+13:05:06.938 [info] Handle Execution of Cells 2 for ~/MyCode/RTOD/Main.ipynb
+13:05:06.953 [info] Kernel acknowledged execution of cell 2 @ 1716296706952
+13:05:06.956 [info] End cell 2 execution @ 1716296706956, started @ 1716296706952, elapsed time = 0.004s
+13:05:20.735 [info] Handle Execution of Cells 3 for ~/MyCode/RTOD/Main.ipynb
+13:05:20.742 [info] Kernel acknowledged execution of cell 3 @ 1716296720742
+13:05:20.746 [info] End cell 3 execution @ 1716296720746, started @ 1716296720742, elapsed time = 0.004s
+13:05:25.650 [info] Loading webview. View is notset
+13:05:25.651 [info] Loading web view...
+13:05:25.652 [info] Webview panel created.
+13:05:37.527 [info] Handle Execution of Cells 4 for ~/MyCode/RTOD/Main.ipynb
+13:05:37.535 [info] Kernel acknowledged execution of cell 4 @ 1716296737535
+13:05:37.537 [info] End cell 4 execution @ 1716296737537, started @ 1716296737535, elapsed time = 0.002s
+13:05:39.365 [info] Web view react rendered
+13:05:54.016 [info] Handle Execution of Cells 5 for ~/MyCode/RTOD/Main.ipynb
+13:05:54.022 [info] Kernel acknowledged execution of cell 5 @ 1716296754022
+13:05:54.027 [info] End cell 5 execution @ 1716296754027, started @ 1716296754022, elapsed time = 0.005s
+13:05:54.028 [warn] Cancel all remaining cells due to cancellation or failure in execution
+13:06:32.876 [info] Handle Execution of Cells 5 for ~/MyCode/RTOD/Main.ipynb
+13:06:32.895 [info] Kernel acknowledged execution of cell 5 @ 1716296792895
+13:06:35.290 [info] End cell 5 execution @ 1716296795289, started @ 1716296792895, elapsed time = 2.394s
+13:06:35.290 [warn] Cancel all remaining cells due to cancellation or failure in execution
+13:08:15.631 [info] Handle Execution of Cells 4 for ~/MyCode/RTOD/Main.ipynb
+13:08:15.644 [info] Kernel acknowledged execution of cell 4 @ 1716296895644
+13:08:15.648 [info] End cell 4 execution @ 1716296895647, started @ 1716296895644, elapsed time = 0.003s
+13:08:33.625 [info] Handle Execution of Cells 5 for ~/MyCode/RTOD/Main.ipynb
+13:08:33.633 [info] Kernel acknowledged execution of cell 5 @ 1716296913633
+13:08:36.294 [warn] StdErr from Kernel Process [ WARN:0@496.067] global cap_v4l.cpp:997 open VIDEOIO(V4L2:/dev/video1): can't open camera by index
+[ERROR:0@496.069] global obsensor_uvc_stream_channel.cpp:159 getStreamChannelGroup Camera index out of range
+13:08:36.295 [info] End cell 5 execution @ 1716296916295, started @ 1716296913633, elapsed time = 2.662s
+13:08:36.296 [warn] Cancel all remaining cells due to cancellation or failure in execution
+13:12:07.806 [info] Handle Execution of Cells 6 for ~/MyCode/RTOD/Main.ipynb
+13:12:07.817 [warn] StdErr from Kernel Process [ WARN:0@708.262] global cap_v4l.cpp:997 open VIDEOIO(V4L2:/dev/video0): can't open camera by index
+13:12:07.817 [warn] StdErr from Kernel Process [ERROR:0@708.262] global obsensor_uvc_stream_channel.cpp:159 getStreamChannelGroup Camera index out of range
+13:12:07.821 [info] Kernel acknowledged execution of cell 6 @ 1716297127821
+13:12:07.830 [info] End cell 6 execution @ 1716297127829, started @ 1716297127821, elapsed time = 0.008s

@@ -1,0 +1,37 @@
+2024-05-01 10:33:49,790 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2024-05-01 10:33:49,792 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'config_helper']
+2024-05-01 10:33:49,794 DEBUG    root            Running [gcloud.config.config-helper] with arguments: [--format: "json", --quiet: "True", --verbosity: "warning"]
+2024-05-01 10:33:49,799 DEBUG    root            Chosen display Format:default json
+2024-05-01 10:33:49,800 INFO     root            Display format: "default json"
+2024-05-01 10:33:49,800 INFO     ___FILE_ONLY___ {
+  "configuration": {
+    "active_configuration": "default",
+    "properties": {
+      "container": {
+        "use_application_default_credentials": "true"
+      },
+      "core": {
+        "account": "mohamad.alnajar@loreal.com",
+        "disable_prompts": "True",
+        "disable_usage_reporting": "True",
+        "print_unhandled_tracebacks": "true",
+        "verbosity": "warning"
+      },
+      "metrics": {
+        "environment": "cloudcode.vscode",
+        "environment_version": "2.2.0"
+      }
+    }
+  },
+  "credential": {
+    "access_token": "ya29.a0Ad52N3_-DpqLx7GMLZpIuA6UJ4EoSqnOpwXjd_zhJ7zMtDD__H5jXitKtL1IsFhdrTvkkJigDayBk8ESr6VAr8qh_dSjONiWBATasAcA4uE9QqUOd8bv7XdcguyVgNcKaxoW_q4HdUdg0gMYrX9QemUKl3cayjbk5nweOuMf1GIeaCgYKASQSARESFQHGX2MibsYfqmzFGzUSvnL8sc31SQ0179",
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImUxYjkzYzY0MDE0NGI4NGJkMDViZjI5NmQ2NzI2MmI2YmM2MWE0ODciLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIzMjU1NTk0MDU1OS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF1ZCI6IjMyNTU1OTQwNTU5LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE2OTgzNjg1MTE3NjYxODcyNTM5IiwiaGQiOiJsb3JlYWwuY29tIiwiZW1haWwiOiJtb2hhbWFkLmFsbmFqYXJAbG9yZWFsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiQkh5cEFpeURFTjhBTnVuTVdGdW45USIsImlhdCI6MTcxNDU1OTU0NywiZXhwIjoxNzE0NTYzMTQ3fQ.ZDnBa9LNSqAxcP8-7Kl4D8M8mMEqgbN6IUXEkobDhpAbekIsT64hDnSdiw0WqG9AaUZsL-JV3No-dSIVyQax1WWLog9ZKjZ7ZcGnAvkTjBTudW2srhqdHbfURap4-9hTfc5Pm5U9oiRfMQgmfK9hMhGHdmGt765DRGo_kNYG25tmDpiji-gZDOHLMvSFOLAqURJFaDCDCC7DuiAB93RNOzA0sL469zDDHkE_oO4gGmy7fAoaXKkSnQQ57z6Io9xR_fVg4nEr2UzbYrVyvdu1D3T3nBafluePXZ5SBU8TGYFltkAxQbkKqhfZpGVJsGyOpJKFWm0urbC7_fNImaviBQ",
+    "token_expiry": "2024-05-01T11:32:26Z"
+  },
+  "sentinels": {
+    "config_sentinel": "/home/user/.config/gcloud/config_sentinel"
+  }
+}
+2024-05-01 10:33:49,800 INFO     ___FILE_ONLY___ 
+
+2024-05-01 10:33:49,801 DEBUG    root            SDK update checks are disabled.

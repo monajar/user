@@ -1,0 +1,118 @@
+Code OSS for Cloud Workstations (1.83.1, 80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev, desktop)
+Jupyter Extension Version: 2023.9.100.
+Python Extension Version: 2024.2.1.
+Platform: linux (x64).
+Workspace folder /home/user, Home = /home/user
+09:05:48.493 [info] <username> belongs to experiment group 'NewJupyterSession'
+09:05:48.993 [info] Start refreshing Kernel Picker (1710320748993)
+09:05:49.010 [info] Using Pylance
+09:05:49.101 [info] Process Execution: /jupyter notebook --version
+09:05:49.136 [info] Process Execution: /jupyter lab --version
+09:06:21.883 [info] Process Execution: ~/.venv/bin/python -m pip list
+09:08:36.487 [info] End refreshing Kernel Picker (1710320748993)
+09:15:01.762 [info] Start refreshing Interpreter Kernel Picker
+09:15:01.763 [info] Start refreshing Kernel Picker (1710321301763)
+09:15:03.890 [info] End refreshing Kernel Picker (1710321301763)
+09:19:35.148 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for 'Untitled-1.ipynb' (disableUI=true)
+09:19:49.038 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+09:19:49.074 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"eeafd6e3-d2c3-4ddf-8f39-73e7ab6046b7" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-14866R3C6A6UHoUj.json
+    > cwd: ~
+09:19:49.087 [warn] Stderr output when getting ipykernel version & path Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    ModuleNotFoundError: No module named 'ipykernel' for ~/.venv/bin/python
+09:19:49.125 [info] Process Execution: ~/.venv/bin/python -m pip list
+09:19:49.126 [warn] StdErr from Kernel Process ~/.venv/bin/python: No module named ipykernel_launcher
+09:19:49.128 [error] Disposing kernel process due to an error Error: The kernel died. Error: ~/.venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher
+    > Interpreter Id = ~/.venv/bin/python
+    > at ChildProcess.<anonymous> (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:86356)
+    > stdErr = ~/.venv/bin/python: No module named ipykernel_launcher
+09:19:49.129 [info] Dispose Kernel process 3815.
+09:19:49.132 [error] Kernel Launcher. launch, Class name = ey, completed in 13979ms, has a falsy return value, Arg 1: "~/.venv/python.~/.venv/python.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "Untitled-1.ipynb", Arg 4: "~", Arg 5: "" Error: The kernel died. Error: ~/.venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher
+    > Interpreter Id = ~/.venv/bin/python
+    > at ChildProcess.<anonymous> (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:86356)
+    > stdErr = ~/.venv/bin/python: No module named ipykernel_launcher
+09:19:49.132 [error] Failed to connect raw kernel session: Error: The kernel died. Error: ~/.venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+09:19:49.134 [warn] Error occurred while trying to start the kernel, options.disableUI=true Error: The kernel died. Error: ~/.venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher
+    > Interpreter Id = ~/.venv/bin/python
+    > at ChildProcess.<anonymous> (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:86356)
+    > stdErr = ~/.venv/bin/python: No module named ipykernel_launcher
+09:20:26.696 [info] Handle Execution of Cells 0 for Untitled-1.ipynb
+09:20:26.700 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for 'Untitled-1.ipynb' (disableUI=false)
+09:20:26.737 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+09:20:26.785 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"3aadb4b1-8f30-409a-ac7d-b2e5c8b333bd" --shell=9010 --transport="tcp" --iopub=9012 --f=~/.local/share/jupyter/runtime/kernel-v2-1486ZRSm1fE1oqu6.json
+    > cwd: ~
+09:20:26.789 [warn] Stderr output when getting ipykernel version & path Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    ModuleNotFoundError: No module named 'ipykernel' for ~/.venv/bin/python
+09:20:26.803 [warn] StdErr from Kernel Process ~/.venv/bin/python: No module named ipykernel_launcher
+09:20:26.808 [error] Disposing kernel process due to an error Error: The kernel died. Error: ~/.venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher
+    > Interpreter Id = ~/.venv/bin/python
+    > at ChildProcess.<anonymous> (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:86356)
+    > stdErr = ~/.venv/bin/python: No module named ipykernel_launcher
+09:20:26.809 [info] Dispose Kernel process 3821.
+09:20:26.812 [error] Kernel Launcher. launch, Class name = ey, completed in 109ms, has a falsy return value, Arg 1: "~/.venv/python.~/.venv/python.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "Untitled-1.ipynb", Arg 4: "~", Arg 5: "" Error: The kernel died. Error: ~/.venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher
+    > Interpreter Id = ~/.venv/bin/python
+    > at ChildProcess.<anonymous> (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:86356)
+    > stdErr = ~/.venv/bin/python: No module named ipykernel_launcher
+09:20:26.813 [error] Failed to connect raw kernel session: Error: The kernel died. Error: ~/.venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+09:20:26.813 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: The kernel died. Error: ~/.venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher
+    > Interpreter Id = ~/.venv/bin/python
+    > at ChildProcess.<anonymous> (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:86356)
+    > stdErr = ~/.venv/bin/python: No module named ipykernel_launcher
+09:20:26.814 [warn] Kernel Error, context = start Error: The kernel died. Error: ~/.venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher
+    > Interpreter Id = ~/.venv/bin/python
+    > at ChildProcess.<anonymous> (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:86356)
+    > stdErr = ~/.venv/bin/python: No module named ipykernel_launcher
+09:20:26.849 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+09:20:26.866 [info] Check & install missing Kernel dependencies for ~/.venv/bin/python, ui.disabled=false for resource 'Untitled-1.ipynb'
+09:20:26.899 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+09:20:26.949 [info] Process Execution: ~/.venv/bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+09:20:27.015 [info] Process Execution: ~/.venv/bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+09:20:27.080 [info] Process Execution: ~/.venv/bin/python -m pip install -U ipykernel
+09:20:35.142 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+09:20:35.401 [info] Dispose Kernel 'Untitled-1.ipynb' associated with 'Untitled-1.ipynb'
+09:20:35.406 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for 'Untitled-1.ipynb' (disableUI=false)
+09:20:35.437 [info] Process Execution: ~/.venv/bin/python -m pip list
+09:20:35.473 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+09:20:35.516 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9019 --control=9017 --hb=9016 --Session.signature_scheme="hmac-sha256" --Session.key=b"da70db57-036b-446d-b35d-d3af9b4622f6" --shell=9018 --transport="tcp" --iopub=9020 --f=~/.local/share/jupyter/runtime/kernel-v2-1486uMMfQAph1D3A.json
+    > cwd: ~
+09:20:35.707 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+09:20:36.033 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+09:20:36.183 [info] Started Kernel .venv (Python 3.11.8) (pid: 3853)
+09:20:36.183 [info] Started new session a0976499-f93c-4996-af8b-f6b513515ca7
+09:20:36.234 [info] Kernel acknowledged execution of cell 0 @ 1710321636233
+09:20:36.238 [info] End cell 0 execution @ 1710321636237, started @ 1710321636233, elapsed time = 0.004s
+09:27:31.855 [info] Loading webview. View is notset
+09:27:31.857 [info] Loading web view...
+09:27:31.858 [info] Webview panel created.
+09:27:32.415 [info] Disposing kernel .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher for notebook Untitled-1.ipynb due to selection of another kernel or closing of the notebook
+09:27:32.415 [info] Dispose Kernel 'Untitled-1.ipynb' associated with 'Untitled-1.ipynb'
+09:27:32.417 [info] Dispose Kernel process 3853.
+09:27:38.314 [info] Web view react rendered
+09:32:21.390 [info] Handle Execution of Cells 1 for ~/MyCode/Untitled-1.ipynb
+09:32:21.401 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for '~/MyCode/Untitled-1.ipynb' (disableUI=false)
+09:32:25.776 [info] Process Execution: ~/.venv/bin/python -m pip list
+09:32:25.819 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+09:32:25.860 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9019 --control=9017 --hb=9016 --Session.signature_scheme="hmac-sha256" --Session.key=b"bdf2182c-d095-4647-980b-6fc04a9cf803" --shell=9018 --transport="tcp" --iopub=9020 --f=~/.local/share/jupyter/runtime/kernel-v2-1486JhBwzOkC4AnW.json
+    > cwd: ~/MyCode
+09:32:26.108 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+09:32:26.743 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+09:32:26.817 [info] Started Kernel .venv (Python 3.11.8) (pid: 4329)
+09:32:26.817 [info] Started new session 110d10a3-9589-4b19-80a9-65125f730200
+09:32:26.936 [info] Process Execution: ~/.venv/bin/python ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/pythonFiles/printJupyterDataDir.py
+09:32:26.947 [info] Kernel acknowledged execution of cell 1 @ 1710322346945
+09:32:26.951 [info] End cell 1 execution @ 1710322346951, started @ 1710322346945, elapsed time = 0.006s
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

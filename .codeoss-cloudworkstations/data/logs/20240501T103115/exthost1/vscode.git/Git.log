@@ -1,0 +1,6 @@
+2024-05-01 10:32:25.143 [info] Log level: Info
+2024-05-01 10:32:25.143 [info] Validating found git in: "git"
+2024-05-01 10:32:25.143 [info] Using git "2.25.1" from "git"
+2024-05-01 10:33:39.578 [info] > git rev-parse --show-toplevel [38ms]
+2024-05-01 10:33:39.595 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-05-01 10:33:39.610 [info] Open repository: /home/user

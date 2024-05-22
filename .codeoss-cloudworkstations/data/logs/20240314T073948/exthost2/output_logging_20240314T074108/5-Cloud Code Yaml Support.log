@@ -1,0 +1,14 @@
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '/home/user/.codeoss-cloudworkstations/extensions/.742e7437-1b1e-4557-a52b-674d5d3a170c/language-configuration.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/user/.codeoss-cloudworkstations/extensions/.742e7437-1b1e-4557-a52b-674d5d3a170c/language-configuration.json'
+}
+
+Node.js v18.15.0
+[Info  - 8:05:59 AM] Connection to server got closed. Server will restart.
+true

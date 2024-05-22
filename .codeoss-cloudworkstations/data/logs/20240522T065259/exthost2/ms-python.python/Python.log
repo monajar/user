@@ -1,0 +1,39 @@
+2024-05-22 06:54:15.699 [info] Default formatter is set to null for workspace /home/user
+2024-05-22 06:54:15.699 [info] Test server listening.
+2024-05-22 06:54:15.699 [info] > conda info --json
+2024-05-22 06:54:15.699 [info] Python interpreter path: ./.venv/bin/python
+2024-05-22 06:54:15.784 [info] > /usr/bin/python3.10 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-22 06:54:15.805 [info] > /usr/bin/python3.11 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-22 06:54:15.875 [info] > /bin/python3.11 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-22 06:54:15.919 [info] > /bin/python3.10 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-22 06:54:15.949 [info] > /bin/python3.8 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-22 06:54:15.979 [info] > /bin/python -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-22 06:54:16.032 [info] > /bin/python3 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-22 06:54:21.785 [info] Found: /bin/python --> /usr/local/bin/python3.10
+2024-05-22 06:54:21.786 [info] Found: /bin/python3 --> /usr/bin/python3.8
+2024-05-22 06:54:21.787 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-05-22 06:54:21.787 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-05-22 06:54:21.787 [info] Found: /bin/python3.8 --> /bin/python3.8
+2024-05-22 06:54:21.816 [info] > ./.venv/bin/python -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-22 06:54:21.820 [info] Found: /usr/bin/python --> /usr/local/bin/python3.10
+2024-05-22 06:54:21.822 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2024-05-22 06:54:21.822 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-05-22 06:54:21.822 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-05-22 06:54:21.823 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-05-22 06:54:21.830 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.10
+2024-05-22 06:54:21.830 [info] Found: /usr/local/bin/python3.10 --> /usr/local/bin/python3.10
+2024-05-22 06:54:22.527 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/printEnvVariables.py
+2024-05-22 06:54:22.527 [info] shell: bash
+2024-05-22 06:54:23.989 [info] Starting Jedi language server for user.
+2024-05-22 06:54:24.183 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-22 06:54:24.184 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-22 06:54:24.184 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-22 06:54:24.184 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-22 06:54:24.184 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-22 06:54:24.184 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-22 06:54:24.216 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/printEnvVariables.py
+2024-05-22 06:54:24.216 [info] shell: bash
+2024-05-22 06:54:24.547 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/printEnvVariables.py
+2024-05-22 06:54:24.547 [info] shell: bash
+2024-05-22 07:19:15.857 [info] Discover tests for workspace name: user - uri: /home/user
+2024-05-22 07:24:55.409 [info] Send text to terminal: source /home/user/.venv/bin/activate

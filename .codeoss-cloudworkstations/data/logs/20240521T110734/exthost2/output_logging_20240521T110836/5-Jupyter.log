@@ -1,0 +1,59 @@
+Code OSS for Cloud Workstations (1.83.1, 80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev, desktop)
+Jupyter Extension Version: 2023.9.100.
+Python Extension Version: 2024.2.1.
+Platform: linux (x64).
+Workspace folder /home/user, Home = /home/user
+11:08:51.998 [info] <username> belongs to experiment group 'NewJupyterSession'
+11:08:52.722 [info] Start refreshing Kernel Picker (1716289732722)
+11:08:52.728 [info] Using Pylance
+11:09:05.111 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for '~/MyCode/PR/PR_Model_GA_Data.ipynb' (disableUI=true)
+11:09:10.693 [info] Process Execution: ~/.venv/bin/python -m pip list
+11:09:11.004 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:09:11.029 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"d1d435de-41b2-4eb3-bd1a-1b8d2828c9f0" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-559sXVb2iBlfq19.json
+    > cwd: ~/MyCode/PR
+11:09:12.332 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+11:09:12.335 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+11:09:12.406 [info] Started Kernel .venv (Python 3.11.8) (pid: 830)
+11:09:12.406 [info] Started new session 90debb8a-d824-48f1-a111-63b61b7906d0
+11:09:12.474 [info] Process Execution: ~/.venv/bin/python ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/pythonFiles/printJupyterDataDir.py
+11:09:57.688 [info] Start refreshing Interpreter Kernel Picker
+11:10:38.677 [info] End refreshing Kernel Picker (1716289732722)
+12:37:24.745 [info] Handle Execution of Cells 0 for ~/MyCode/RTOD/Main.ipynb
+12:37:24.790 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for '~/MyCode/RTOD/Main.ipynb' (disableUI=false)
+12:37:47.600 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+12:37:47.623 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"992e1cd4-d0ea-45b5-af5a-cdeac96be01f" --shell=9007 --transport="tcp" --iopub=9009 --f=~/.local/share/jupyter/runtime/kernel-v2-559Y2iB0rkHTs1Z.json
+    > cwd: ~/MyCode/RTOD
+12:37:47.651 [info] Process Execution: ~/.venv/bin/python -m pip list
+12:37:47.847 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+12:37:48.128 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+12:37:48.250 [info] Started Kernel .venv (Python 3.11.8) (pid: 1371)
+12:37:48.251 [info] Started new session da7fb86a-43dd-4eb5-9737-e9788dc7db3c
+12:37:48.307 [info] Kernel acknowledged execution of cell 0 @ 1716295068305
+12:39:36.316 [info] End cell 0 execution @ 1716295176315, started @ 1716295068305, elapsed time = 108.01s
+12:41:08.904 [info] Disposing HostJupyterExecution
+12:41:08.904 [info] Shutting down notebooks for a2c627c0-716d-4f82-8136-6488b6d5cebe
+12:41:08.904 [info] Dispose Kernel '~/MyCode/PR/PR_Model_GA_Data.ipynb' associated with '~/MyCode/PR/PR_Model_GA_Data.ipynb'
+12:41:08.906 [info] Dispose Kernel process 830.
+12:41:08.937 [info] Dispose Kernel '~/MyCode/RTOD/Main.ipynb' associated with '~/MyCode/RTOD/Main.ipynb'
+12:41:08.938 [info] Dispose Kernel process 1371.
+12:41:08.964 [info] Disposing HostJupyterExecution
+12:41:09.032 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-559Y2iB0rkHTs1Z.json for pid 1371 [Canceled (FileSystemError): Canceled
+	at E.e (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.stat (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:127:24555)
+	at async fp.delete (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:17:19371)
+	at async ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:88616] {
+  code: 'Unknown'
+}
+12:41:09.035 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-559sXVb2iBlfq19.json for pid 830 [Canceled (FileSystemError): Canceled
+	at E.e (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.stat (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:127:24555)
+	at async fp.delete (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:17:19371)
+	at async ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:88616] {
+  code: 'Unknown'
+}

@@ -1,0 +1,39 @@
+I0314 07:41:13.950144     667 serve.go:43] language_server (Dec  5 2023 13:36:57 -0800, cl:588173277 baseline:588173277)
+I0314 07:41:13.950185     667 serve.go:44] Command line: ["/home/user/.cache/cloud-code/language-server-binaries/ai-companion/linux_amd64/language_server" "-logtostderr"]
+I0314 07:41:13.951869     667 life_cycle.go:81] Initializing. Architecture: "amd64", Operating system: "linux"
+I0314 07:41:14.117789     667 configuration.go:124] product updateChannel will be used
+I0314 07:41:14.117823     667 configuration.go:351] language thresholds: map[]
+I0314 07:41:14.117929     667 configuration.go:540] atlas codeCompletion llm options: {MaxTokens:0xc000317154 Temp:<nil> Samples:0xc000317150 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc000317158 StopSequences:map[] DataFilePromptLines:<nil>}
+I0314 07:41:14.117979     667 configuration.go:540] atlas codeGeneration llm options: {MaxTokens:0xc0003171c0 Temp:<nil> Samples:0xc0003171b0 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc0003171c4 StopSequences:map[*:[[eod] [EOF] [pre] [suf] [mid]]] DataFilePromptLines:0xc0003171b8}
+I0314 07:41:14.118159     667 configuration.go:183] Configured settings for atlasOpts: {"Project":"spmena-sandbox-gcc-apac-dv","LogPrompt":true,"Complete":{"MaxTokens":64,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":null,"DataFilePromptLines":null},"Generate":{"MaxTokens":512,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":{"*":["[eod]","[EOF]","[pre]","[suf]","[mid]"]},"DataFilePromptLines":5},"UseTypeoverCache":true}
+I0314 07:41:14.118173     667 configuration.go:185] Configured settings for opts: &{trace:false atlasAddr:cloudaicompanion.googleapis.com:443 autoGen:false invokeGen:true extraneousPromptFilesLimit:-1 codeCacheMaxEntries:1024 completionOpts:{debounce:50000000 throttle:100000000 minScoreThreshold:-10 languageThresholds:map[] enableThresholds:true commentCompletion:false citationLengthThreshold:-1 enableRecitations:true citationLogFilePath: repeatedStringFilterThreshold:60} useRest:<nil> enableNotebooks:false}
+I0314 07:41:14.118199     667 configuration.go:187] Configured settings for canCancelRequests: true
+I0314 07:41:14.118207     667 configuration.go:189] Configured settings for contextPromptOpts: &{Endpoint:}
+I0314 07:41:14.118216     667 configuration.go:190] Configured settings for enableRemoteContext: false
+I0314 07:41:14.119317     667 atlas.go:48] Using gRPC to access Atlas
+I0314 07:41:14.120077     667 atlas.go:150] CompleteCode request: parent:"projects/spmena-sandbox-gcc-apac-dv/locations/global"  request_id:"cloudcode-a4eb2b4d-594c-4cad-bafd-d41ced0168f8"  prompt:{experience:COMPLETE  prefix:"healthCheck"  temperature:0.2  max_output_tokens:64  expected_samples:4}
+I0314 07:41:14.120357     667 atlas.go:161] Atlas GenerateCode request ID: cloudcode-a4eb2b4d-594c-4cad-bafd-d41ced0168f8
+W0314 07:41:37.428134     667 server.go:340] unknown method "$/setTrace"
+I0314 07:41:37.434312     667 configuration.go:124] product updateChannel will be used
+I0314 07:41:37.434346     667 configuration.go:351] language thresholds: map[]
+I0314 07:41:37.434369     667 configuration.go:540] atlas codeCompletion llm options: {MaxTokens:0xc00069adc4 Temp:<nil> Samples:0xc00069adc0 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc00069adc8 StopSequences:map[] DataFilePromptLines:<nil>}
+I0314 07:41:37.434397     667 configuration.go:540] atlas codeGeneration llm options: {MaxTokens:0xc00069ae40 Temp:<nil> Samples:0xc00069ae30 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc00069ae44 StopSequences:map[*:[[eod] [EOF] [pre] [suf] [mid]]] DataFilePromptLines:0xc00069ae38}
+I0314 07:41:37.434427     667 configuration.go:183] Configured settings for atlasOpts: {"Project":"spmena-sandbox-gcc-apac-dv","LogPrompt":true,"Complete":{"MaxTokens":64,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":null,"DataFilePromptLines":null},"Generate":{"MaxTokens":512,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":{"*":["[eod]","[EOF]","[pre]","[suf]","[mid]"]},"DataFilePromptLines":5},"UseTypeoverCache":true}
+I0314 07:41:37.434436     667 configuration.go:185] Configured settings for opts: &{trace:false atlasAddr:cloudaicompanion.googleapis.com:443 autoGen:false invokeGen:true extraneousPromptFilesLimit:-1 codeCacheMaxEntries:1024 completionOpts:{debounce:50000000 throttle:100000000 minScoreThreshold:-10 languageThresholds:map[] enableThresholds:true commentCompletion:false citationLengthThreshold:-1 enableRecitations:true citationLogFilePath: repeatedStringFilterThreshold:60} useRest:<nil> enableNotebooks:false}
+I0314 07:41:37.434455     667 configuration.go:187] Configured settings for canCancelRequests: true
+I0314 07:41:37.434462     667 configuration.go:189] Configured settings for contextPromptOpts: &{Endpoint:}
+I0314 07:41:37.434470     667 configuration.go:190] Configured settings for enableRemoteContext: false
+E0314 07:52:28.513241     667 conversation.go:330] Error getting document contents for request #6: trying to get document with URI uncached
+E0314 07:52:28.513397     667 server.go:194] error fulfilling request #6, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/Untitled-1.ipynb#W0sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
+E0314 07:53:00.204142     667 conversation.go:330] Error getting document contents for request #8: trying to get document with URI uncached
+E0314 07:53:00.204301     667 server.go:194] error fulfilling request #8, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/Untitled-1.ipynb#W0sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
+E0314 07:53:22.538103     667 conversation.go:330] Error getting document contents for request #10: trying to get document with URI uncached
+E0314 07:53:22.538213     667 server.go:194] error fulfilling request #10, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/Untitled-1.ipynb#W0sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
+E0314 07:54:41.195354     667 conversation.go:330] Error getting document contents for request #12: trying to get document with URI uncached
+E0314 07:54:41.195481     667 server.go:194] error fulfilling request #12, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/Untitled-1.ipynb#W0sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
+W0314 07:56:52.880667     667 server.go:340] unknown method "textDocument/documentLink"
+W0314 07:57:17.262222     667 server.go:340] unknown method "textDocument/documentLink"
+W0314 08:06:09.485438     667 server.go:340] unknown method "textDocument/documentLink"
+W0314 08:06:29.499011     667 server.go:340] unknown method "textDocument/documentLink"
+W0314 08:06:32.025639     667 server.go:340] unknown method "textDocument/documentLink"
+W0314 08:06:36.208858     667 server.go:340] unknown method "textDocument/documentLink"

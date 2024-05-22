@@ -1,0 +1,72 @@
+Code OSS for Cloud Workstations (1.83.1, 80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev, desktop)
+Jupyter Extension Version: 2023.9.100.
+Python Extension Version: 2024.2.1.
+Platform: linux (x64).
+Workspace folder /home/user, Home = /home/user
+10:34:20.254 [info] <username> belongs to experiment group 'NewJupyterSession'
+10:34:20.606 [info] Start refreshing Kernel Picker (1714559660606)
+10:34:20.620 [info] Using Pylance
+10:34:21.355 [info] Process Execution: ~/.venv/bin/python -m pip list
+10:34:21.833 [info] Start refreshing Interpreter Kernel Picker
+10:34:36.343 [info] End refreshing Kernel Picker (1714559660606)
+10:35:50.829 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for '~/MyCode/Testing/Untitled-1.ipynb' (disableUI=true)
+10:35:50.860 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:35:50.891 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"4e6ff82d-3070-4c6d-8e44-674724cbf570" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-553icZyYO9f7WX0.json
+    > cwd: ~/MyCode/Testing
+10:35:51.295 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+10:35:52.313 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10:35:53.230 [info] Started Kernel .venv (Python 3.11.8) (pid: 883)
+10:35:53.230 [info] Started new session cf9e6d5a-12ec-44de-9686-ae217d24edd2
+10:35:53.301 [info] Process Execution: ~/.venv/bin/python ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/pythonFiles/printJupyterDataDir.py
+10:35:53.333 [info] Handle Execution of Cells 1 for ~/MyCode/Testing/Untitled-1.ipynb
+10:35:53.346 [info] Kernel acknowledged execution of cell 1 @ 1714559753345
+10:35:53.477 [info] End cell 1 execution @ 1714559753477, started @ 1714559753345, elapsed time = 0.132s
+10:35:53.478 [warn] Cancel all remaining cells due to cancellation or failure in execution
+10:38:13.943 [info] Handle Execution of Cells 1 for ~/MyCode/Testing/Untitled-1.ipynb
+10:38:13.955 [info] Kernel acknowledged execution of cell 1 @ 1714559893954
+10:38:18.767 [info] End cell 1 execution @ 1714559898766, started @ 1714559893954, elapsed time = 4.812s
+10:38:29.295 [info] Handle Execution of Cells 2 for ~/MyCode/Testing/Untitled-1.ipynb
+10:38:29.305 [info] Kernel acknowledged execution of cell 2 @ 1714559909304
+10:38:29.532 [info] End cell 2 execution @ 1714559909532, started @ 1714559909304, elapsed time = 0.228s
+10:38:29.532 [warn] Cancel all remaining cells due to cancellation or failure in execution
+10:39:28.905 [info] Handle Execution of Cells 2 for ~/MyCode/Testing/Untitled-1.ipynb
+10:39:28.916 [info] Kernel acknowledged execution of cell 2 @ 1714559968916
+10:39:30.552 [info] End cell 2 execution @ 1714559970551, started @ 1714559968916, elapsed time = 1.635s
+10:41:54.079 [info] Handle Execution of Cells 3 for ~/MyCode/Testing/Untitled-1.ipynb
+10:41:54.091 [info] Kernel acknowledged execution of cell 3 @ 1714560114091
+10:41:55.751 [info] End cell 3 execution @ 1714560115751, started @ 1714560114091, elapsed time = 1.66s
+10:42:01.237 [info] Handle Execution of Cells 4 for ~/MyCode/Testing/Untitled-1.ipynb
+10:42:01.827 [info] Kernel acknowledged execution of cell 4 @ 1714560121827
+10:42:01.832 [info] End cell 4 execution @ 1714560121832, started @ 1714560121827, elapsed time = 0.005s
+10:42:01.833 [warn] Cancel all remaining cells due to cancellation or failure in execution
+10:43:34.039 [info] Handle Execution of Cells 4 for ~/MyCode/Testing/Untitled-1.ipynb
+10:43:34.057 [info] Kernel acknowledged execution of cell 4 @ 1714560214056
+10:43:35.400 [info] End cell 4 execution @ 1714560215400, started @ 1714560214056, elapsed time = 1.344s
+10:44:00.505 [info] Handle Execution of Cells 6 for ~/MyCode/Testing/Untitled-1.ipynb
+10:44:00.515 [info] Kernel acknowledged execution of cell 6 @ 1714560240515
+10:44:00.691 [info] End cell 6 execution @ 1714560240691, started @ 1714560240515, elapsed time = 0.176s
+10:44:00.692 [warn] Cancel all remaining cells due to cancellation or failure in execution
+10:44:43.838 [info] Handle Execution of Cells 5 for ~/MyCode/Testing/Untitled-1.ipynb
+10:44:43.847 [info] Kernel acknowledged execution of cell 5 @ 1714560283847
+10:44:46.917 [info] End cell 5 execution @ 1714560286917, started @ 1714560283847, elapsed time = 3.07s
+10:45:07.858 [info] Handle Execution of Cells 7 for ~/MyCode/Testing/Untitled-1.ipynb
+10:45:07.867 [info] Kernel acknowledged execution of cell 7 @ 1714560307867
+10:45:09.593 [info] End cell 7 execution @ 1714560309593, started @ 1714560307867, elapsed time = 1.726s
+10:45:22.125 [info] Handle Execution of Cells 8 for ~/MyCode/Testing/Untitled-1.ipynb
+10:45:22.137 [info] Kernel acknowledged execution of cell 8 @ 1714560322137
+10:45:22.158 [info] End cell 8 execution @ 1714560322158, started @ 1714560322137, elapsed time = 0.021s
+10:52:10.084 [info] Disposing HostJupyterExecution
+10:52:10.085 [info] Shutting down notebooks for 224c81e4-99a9-4a8e-94bb-d523c6ac68ed
+10:52:10.085 [info] Dispose Kernel '~/MyCode/Testing/Untitled-1.ipynb' associated with '~/MyCode/Testing/Untitled-1.ipynb'
+10:52:10.087 [info] Dispose Kernel process 883.
+10:52:10.107 [info] Disposing HostJupyterExecution
+10:52:10.145 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-553icZyYO9f7WX0.json for pid 883 [Canceled (FileSystemError): Canceled
+	at E.e (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.stat (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:127:24555)
+	at async fp.delete (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:17:19371)
+	at async ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:88616] {
+  code: 'Unknown'
+}

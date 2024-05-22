@@ -1,0 +1,98 @@
+I0313 08:02:57.579691     915 serve.go:43] language_server (Dec  5 2023 13:36:57 -0800, cl:588173277 baseline:588173277)
+I0313 08:02:57.579743     915 serve.go:44] Command line: ["/home/user/.cache/cloud-code/language-server-binaries/ai-companion/linux_amd64/language_server" "-logtostderr"]
+I0313 08:02:57.581721     915 life_cycle.go:81] Initializing. Architecture: "amd64", Operating system: "linux"
+I0313 08:02:57.600726     915 configuration.go:124] product updateChannel will be used
+I0313 08:02:57.600761     915 configuration.go:351] language thresholds: map[]
+I0313 08:02:57.600796     915 configuration.go:540] atlas codeCompletion llm options: {MaxTokens:0xc0006e5d84 Temp:<nil> Samples:0xc0006e5d80 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc0006e5d88 StopSequences:map[] DataFilePromptLines:<nil>}
+I0313 08:02:57.600825     915 configuration.go:540] atlas codeGeneration llm options: {MaxTokens:0xc0006e5df0 Temp:<nil> Samples:0xc0006e5de0 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc0006e5df4 StopSequences:map[*:[[eod] [EOF] [pre] [suf] [mid]]] DataFilePromptLines:0xc0006e5de8}
+I0313 08:02:57.600998     915 configuration.go:183] Configured settings for atlasOpts: {"Project":"","LogPrompt":true,"Complete":{"MaxTokens":64,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":null,"DataFilePromptLines":null},"Generate":{"MaxTokens":512,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":{"*":["[eod]","[EOF]","[pre]","[suf]","[mid]"]},"DataFilePromptLines":5},"UseTypeoverCache":true}
+I0313 08:02:57.601008     915 configuration.go:185] Configured settings for opts: &{trace:false atlasAddr:cloudaicompanion.googleapis.com:443 autoGen:false invokeGen:true extraneousPromptFilesLimit:-1 codeCacheMaxEntries:1024 completionOpts:{debounce:50000000 throttle:100000000 minScoreThreshold:-10 languageThresholds:map[] enableThresholds:true commentCompletion:false citationLengthThreshold:-1 enableRecitations:true citationLogFilePath: repeatedStringFilterThreshold:60} useRest:<nil> enableNotebooks:false}
+I0313 08:02:57.601037     915 configuration.go:187] Configured settings for canCancelRequests: true
+I0313 08:02:57.601043     915 configuration.go:189] Configured settings for contextPromptOpts: &{Endpoint:}
+I0313 08:02:57.601052     915 configuration.go:190] Configured settings for enableRemoteContext: false
+W0313 08:03:48.233405     915 server.go:340] unknown method "$/setTrace"
+I0313 08:03:48.238056     915 configuration.go:124] product updateChannel will be used
+I0313 08:03:48.238091     915 configuration.go:351] language thresholds: map[]
+I0313 08:03:48.238118     915 configuration.go:540] atlas codeCompletion llm options: {MaxTokens:0xc00046d214 Temp:<nil> Samples:0xc00046d210 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc00046d218 StopSequences:map[] DataFilePromptLines:<nil>}
+I0313 08:03:48.238145     915 configuration.go:540] atlas codeGeneration llm options: {MaxTokens:0xc00046d370 Temp:<nil> Samples:0xc00046d350 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc00046d374 StopSequences:map[*:[[eod] [EOF] [pre] [suf] [mid]]] DataFilePromptLines:0xc00046d358}
+I0313 08:03:48.238176     915 configuration.go:183] Configured settings for atlasOpts: {"Project":"spmena-sandbox-gcc-apac-dv","LogPrompt":true,"Complete":{"MaxTokens":64,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":null,"DataFilePromptLines":null},"Generate":{"MaxTokens":512,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":{"*":["[eod]","[EOF]","[pre]","[suf]","[mid]"]},"DataFilePromptLines":5},"UseTypeoverCache":true}
+I0313 08:03:48.238184     915 configuration.go:185] Configured settings for opts: &{trace:false atlasAddr:cloudaicompanion.googleapis.com:443 autoGen:false invokeGen:true extraneousPromptFilesLimit:-1 codeCacheMaxEntries:1024 completionOpts:{debounce:50000000 throttle:100000000 minScoreThreshold:-10 languageThresholds:map[] enableThresholds:true commentCompletion:false citationLengthThreshold:-1 enableRecitations:true citationLogFilePath: repeatedStringFilterThreshold:60} useRest:<nil> enableNotebooks:false}
+I0313 08:03:48.238208     915 configuration.go:187] Configured settings for canCancelRequests: true
+I0313 08:03:48.238215     915 configuration.go:189] Configured settings for contextPromptOpts: &{Endpoint:}
+I0313 08:03:48.238223     915 configuration.go:190] Configured settings for enableRemoteContext: false
+I0313 08:03:48.261751     968 serve.go:43] language_server (Dec  5 2023 13:36:57 -0800, cl:588173277 baseline:588173277)
+I0313 08:03:48.261809     968 serve.go:44] Command line: ["/home/user/.cache/cloud-code/language-server-binaries/ai-companion/linux_amd64/language_server" "-logtostderr"]
+I0313 08:03:48.263918     968 life_cycle.go:81] Initializing. Architecture: "amd64", Operating system: "linux"
+[Error - 8:03:48 AM] Server initialization failed.
+Error: command '_cloudcode.duetAI.ls.completionAccepted' already exists
+	at n.registerCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82889)
+	at Object.registerCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:20485)
+	at t.ExecuteCommandFeature.register (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12865347)
+	at t.ExecuteCommandFeature.initialize (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12864926)
+	at A.initializeFeatures (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12815447)
+	at A.doInitialize (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12802261)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async A.start (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12799276)
+	at async A.$start (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12807033)
+	at async A.sendRequest (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12791352)
+[Error - 8:03:48 AM] Duet AI client: couldn't create connection to server.
+Error: command '_cloudcode.duetAI.ls.completionAccepted' already exists
+	at n.registerCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82889)
+	at Object.registerCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:20485)
+	at t.ExecuteCommandFeature.register (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12865347)
+	at t.ExecuteCommandFeature.initialize (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12864926)
+	at A.initializeFeatures (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12815447)
+	at A.doInitialize (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12802261)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async A.start (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12799276)
+	at async A.$start (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12807033)
+	at async A.sendRequest (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12791352)
+I0313 08:03:48.286655     968 configuration.go:124] product updateChannel will be used
+I0313 08:03:48.286688     968 configuration.go:351] language thresholds: map[]
+I0313 08:03:48.286714     968 configuration.go:540] atlas codeCompletion llm options: {MaxTokens:0xc0005787b4 Temp:<nil> Samples:0xc0005787b0 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc0005787b8 StopSequences:map[] DataFilePromptLines:<nil>}
+I0313 08:03:48.286744     968 configuration.go:540] atlas codeGeneration llm options: {MaxTokens:0xc000578820 Temp:<nil> Samples:0xc000578810 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc000578824 StopSequences:map[*:[[eod] [EOF] [pre] [suf] [mid]]] DataFilePromptLines:0xc000578818}
+I0313 08:03:48.286880     968 configuration.go:183] Configured settings for atlasOpts: {"Project":"spmena-sandbox-gcc-apac-dv","LogPrompt":true,"Complete":{"MaxTokens":64,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":null,"DataFilePromptLines":null},"Generate":{"MaxTokens":512,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":{"*":["[eod]","[EOF]","[pre]","[suf]","[mid]"]},"DataFilePromptLines":5},"UseTypeoverCache":true}
+I0313 08:03:48.286889     968 configuration.go:185] Configured settings for opts: &{trace:false atlasAddr:cloudaicompanion.googleapis.com:443 autoGen:false invokeGen:true extraneousPromptFilesLimit:-1 codeCacheMaxEntries:1024 completionOpts:{debounce:50000000 throttle:100000000 minScoreThreshold:-10 languageThresholds:map[] enableThresholds:true commentCompletion:false citationLengthThreshold:-1 enableRecitations:true citationLogFilePath: repeatedStringFilterThreshold:60} useRest:<nil> enableNotebooks:false}
+I0313 08:03:48.286928     968 configuration.go:187] Configured settings for canCancelRequests: true
+I0313 08:03:48.286935     968 configuration.go:189] Configured settings for contextPromptOpts: &{Endpoint:}
+I0313 08:03:48.286944     968 configuration.go:190] Configured settings for enableRemoteContext: false
+W0313 08:04:51.869674     915 server.go:340] unknown method "$/setTrace"
+I0313 08:04:51.875196     915 configuration.go:124] product updateChannel will be used
+I0313 08:04:51.875233     915 configuration.go:351] language thresholds: map[]
+I0313 08:04:51.875263     915 configuration.go:540] atlas codeCompletion llm options: {MaxTokens:0xc000710ae4 Temp:<nil> Samples:0xc000710ae0 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc000710ae8 StopSequences:map[] DataFilePromptLines:<nil>}
+I0313 08:04:51.875308     915 configuration.go:540] atlas codeGeneration llm options: {MaxTokens:0xc000710b50 Temp:<nil> Samples:0xc000710b40 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc000710b54 StopSequences:map[*:[[eod] [EOF] [pre] [suf] [mid]]] DataFilePromptLines:0xc000710b48}
+I0313 08:04:51.875346     915 configuration.go:183] Configured settings for atlasOpts: {"Project":"spmena-sandbox-gcc-apac-dv","LogPrompt":true,"Complete":{"MaxTokens":64,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":null,"DataFilePromptLines":null},"Generate":{"MaxTokens":512,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":{"*":["[eod]","[EOF]","[pre]","[suf]","[mid]"]},"DataFilePromptLines":5},"UseTypeoverCache":true}
+I0313 08:04:51.875362     915 configuration.go:185] Configured settings for opts: &{trace:false atlasAddr:cloudaicompanion.googleapis.com:443 autoGen:false invokeGen:true extraneousPromptFilesLimit:-1 codeCacheMaxEntries:1024 completionOpts:{debounce:50000000 throttle:100000000 minScoreThreshold:-10 languageThresholds:map[] enableThresholds:true commentCompletion:false citationLengthThreshold:-1 enableRecitations:true citationLogFilePath: repeatedStringFilterThreshold:60} useRest:<nil> enableNotebooks:false}
+I0313 08:04:51.875383     915 configuration.go:187] Configured settings for canCancelRequests: true
+I0313 08:04:51.875389     915 configuration.go:189] Configured settings for contextPromptOpts: &{Endpoint:}
+I0313 08:04:51.875405     915 configuration.go:190] Configured settings for enableRemoteContext: false
+W0313 08:04:52.780303     915 server.go:340] unknown method "$/setTrace"
+I0313 08:04:52.782985     915 configuration.go:124] product updateChannel will be used
+I0313 08:04:52.783020     915 configuration.go:351] language thresholds: map[]
+I0313 08:04:52.783046     915 configuration.go:540] atlas codeCompletion llm options: {MaxTokens:0xc00046d9f4 Temp:<nil> Samples:0xc00046d9f0 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc00046d9f8 StopSequences:map[] DataFilePromptLines:<nil>}
+I0313 08:04:52.783071     915 configuration.go:540] atlas codeGeneration llm options: {MaxTokens:0xc00046da70 Temp:<nil> Samples:0xc00046da60 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc00046da74 StopSequences:map[*:[[eod] [EOF] [pre] [suf] [mid]]] DataFilePromptLines:0xc00046da68}
+I0313 08:04:52.783101     915 configuration.go:183] Configured settings for atlasOpts: {"Project":"spmena-sandbox-gcc-apac-dv","LogPrompt":true,"Complete":{"MaxTokens":64,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":null,"DataFilePromptLines":null},"Generate":{"MaxTokens":512,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":{"*":["[eod]","[EOF]","[pre]","[suf]","[mid]"]},"DataFilePromptLines":5},"UseTypeoverCache":true}
+I0313 08:04:52.783109     915 configuration.go:185] Configured settings for opts: &{trace:false atlasAddr:cloudaicompanion.googleapis.com:443 autoGen:false invokeGen:true extraneousPromptFilesLimit:-1 codeCacheMaxEntries:1024 completionOpts:{debounce:50000000 throttle:100000000 minScoreThreshold:-10 languageThresholds:map[] enableThresholds:true commentCompletion:false citationLengthThreshold:-1 enableRecitations:true citationLogFilePath: repeatedStringFilterThreshold:60} useRest:<nil> enableNotebooks:false}
+I0313 08:04:52.783130     915 configuration.go:187] Configured settings for canCancelRequests: true
+I0313 08:04:52.783137     915 configuration.go:189] Configured settings for contextPromptOpts: &{Endpoint:}
+I0313 08:04:52.783145     915 configuration.go:190] Configured settings for enableRemoteContext: false
+W0313 08:04:53.939253     915 server.go:340] unknown method "$/setTrace"
+I0313 08:04:53.943075     915 configuration.go:124] product updateChannel will be used
+I0313 08:04:53.943102     915 configuration.go:351] language thresholds: map[]
+I0313 08:04:53.943124     915 configuration.go:540] atlas codeCompletion llm options: {MaxTokens:0xc0006ff5b4 Temp:<nil> Samples:0xc0006ff5b0 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc0006ff5b8 StopSequences:map[] DataFilePromptLines:<nil>}
+I0313 08:04:53.943152     915 configuration.go:540] atlas codeGeneration llm options: {MaxTokens:0xc0006ff620 Temp:<nil> Samples:0xc0006ff610 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc0006ff624 StopSequences:map[*:[[eod] [EOF] [pre] [suf] [mid]]] DataFilePromptLines:0xc0006ff618}
+I0313 08:04:53.943178     915 configuration.go:183] Configured settings for atlasOpts: {"Project":"spmena-sandbox-gcc-apac-dv","LogPrompt":true,"Complete":{"MaxTokens":64,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":null,"DataFilePromptLines":null},"Generate":{"MaxTokens":512,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":{"*":["[eod]","[EOF]","[pre]","[suf]","[mid]"]},"DataFilePromptLines":5},"UseTypeoverCache":true}
+I0313 08:04:53.943184     915 configuration.go:185] Configured settings for opts: &{trace:false atlasAddr:cloudaicompanion.googleapis.com:443 autoGen:false invokeGen:true extraneousPromptFilesLimit:-1 codeCacheMaxEntries:1024 completionOpts:{debounce:50000000 throttle:100000000 minScoreThreshold:-10 languageThresholds:map[] enableThresholds:true commentCompletion:false citationLengthThreshold:-1 enableRecitations:true citationLogFilePath: repeatedStringFilterThreshold:60} useRest:<nil> enableNotebooks:false}
+I0313 08:04:53.943203     915 configuration.go:187] Configured settings for canCancelRequests: true
+I0313 08:04:53.943209     915 configuration.go:189] Configured settings for contextPromptOpts: &{Endpoint:}
+I0313 08:04:53.943217     915 configuration.go:190] Configured settings for enableRemoteContext: false
+W0313 08:07:07.647162     915 server.go:340] unknown method "$/setTrace"
+I0313 08:07:07.654931     915 configuration.go:124] product updateChannel will be used
+I0313 08:07:07.654984     915 configuration.go:351] language thresholds: map[]
+I0313 08:07:07.655019     915 configuration.go:540] atlas codeCompletion llm options: {MaxTokens:0xc000397dd4 Temp:<nil> Samples:0xc000397dd0 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc000397dd8 StopSequences:map[] DataFilePromptLines:<nil>}
+I0313 08:07:07.655069     915 configuration.go:540] atlas codeGeneration llm options: {MaxTokens:0xc000397f80 Temp:<nil> Samples:0xc000397e50 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc000397f84 StopSequences:map[*:[[eod] [EOF] [pre] [suf] [mid]]] DataFilePromptLines:0xc000397e58}
+I0313 08:07:07.655119     915 configuration.go:183] Configured settings for atlasOpts: {"Project":"","LogPrompt":true,"Complete":{"MaxTokens":64,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":null,"DataFilePromptLines":null},"Generate":{"MaxTokens":512,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":{"*":["[eod]","[EOF]","[pre]","[suf]","[mid]"]},"DataFilePromptLines":5},"UseTypeoverCache":true}
+I0313 08:07:07.655130     915 configuration.go:185] Configured settings for opts: &{trace:false atlasAddr:cloudaicompanion.googleapis.com:443 autoGen:false invokeGen:true extraneousPromptFilesLimit:-1 codeCacheMaxEntries:1024 completionOpts:{debounce:50000000 throttle:100000000 minScoreThreshold:-10 languageThresholds:map[] enableThresholds:true commentCompletion:false citationLengthThreshold:-1 enableRecitations:true citationLogFilePath: repeatedStringFilterThreshold:60} useRest:<nil> enableNotebooks:false}
+I0313 08:07:07.655162     915 configuration.go:187] Configured settings for canCancelRequests: true
+I0313 08:07:07.655171     915 configuration.go:189] Configured settings for contextPromptOpts: &{Endpoint:}
+I0313 08:07:07.655184     915 configuration.go:190] Configured settings for enableRemoteContext: false

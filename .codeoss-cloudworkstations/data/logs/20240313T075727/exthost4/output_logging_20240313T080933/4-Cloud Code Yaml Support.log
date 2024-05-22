@@ -1,0 +1,84 @@
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '/home/user/.codeoss-cloudworkstations/extensions/.0527215d-7de7-41f1-84d1-f3d783e43553/bundled/libs/debugpy/_vendored/pydevd/_pydevd_bundle/_debug_adapter/debugProtocol.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/user/.codeoss-cloudworkstations/extensions/.0527215d-7de7-41f1-84d1-f3d783e43553/bundled/libs/debugpy/_vendored/pydevd/_pydevd_bundle/_debug_adapter/debugProtocol.json'
+}
+
+Node.js v18.15.0
+[Info  - 8:15:24 AM] Connection to server got closed. Server will restart.
+true
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '/home/user/.codeoss-cloudworkstations/extensions/.49e854a8-a06e-4f70-ac56-bca0d21a6b18/resources/report_issue_user_settings.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/user/.codeoss-cloudworkstations/extensions/.49e854a8-a06e-4f70-ac56-bca0d21a6b18/resources/report_issue_user_settings.json'
+}
+
+Node.js v18.15.0
+[Info  - 8:15:33 AM] Connection to server got closed. Server will restart.
+true
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '/home/user/.codeoss-cloudworkstations/extensions/.87710912-c51b-4743-8ac1-9c1b5118d6b4/package.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/user/.codeoss-cloudworkstations/extensions/.87710912-c51b-4743-8ac1-9c1b5118d6b4/package.json'
+}
+
+Node.js v18.15.0
+[Info  - 9:05:18 AM] Connection to server got closed. Server will restart.
+true
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '/home/user/.codeoss-cloudworkstations/extensions/.037b5aa5-02da-4729-b0c7-6599fc15cfa1/package.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/user/.codeoss-cloudworkstations/extensions/.037b5aa5-02da-4729-b0c7-6599fc15cfa1/package.json'
+}
+
+Node.js v18.15.0
+[Info  - 9:05:23 AM] Connection to server got closed. Server will restart.
+true
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '/home/user/.codeoss-cloudworkstations/extensions/.21bdb3dd-747b-444e-83d8-ea1c04f00fbe/package.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/user/.codeoss-cloudworkstations/extensions/.21bdb3dd-747b-444e-83d8-ea1c04f00fbe/package.json'
+}
+
+Node.js v18.15.0
+[Info  - 9:05:33 AM] Connection to server got closed. Server will restart.
+true
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '/home/user/.codeoss-cloudworkstations/extensions/.1a465e8f-43bf-495a-a7ce-2d97e4e4f48a/.devcontainer/devcontainer.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/user/.codeoss-cloudworkstations/extensions/.1a465e8f-43bf-495a-a7ce-2d97e4e4f48a/.devcontainer/devcontainer.json'
+}
+
+Node.js v18.15.0
+[Info  - 9:40:11 AM] Connection to server got closed. Server will restart.
+true

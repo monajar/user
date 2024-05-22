@@ -1,0 +1,94 @@
+Code OSS for Cloud Workstations (1.83.1, 80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev, desktop)
+Jupyter Extension Version: 2023.9.100.
+Python Extension Version: 2024.2.1.
+Platform: linux (x64).
+Workspace folder /home/user, Home = /home/user
+09:50:35.919 [info] <username> belongs to experiment group 'NewJupyterSession'
+09:50:37.723 [info] Start refreshing Kernel Picker (1710323437723)
+09:50:37.735 [info] Using Pylance
+09:50:39.283 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for '~/MyCode/Untitled-1.ipynb' (disableUI=true)
+09:50:39.655 [info] Process Execution: ~/.venv/bin/python -m pip list
+09:50:40.046 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+09:50:40.068 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"ee2140df-5026-4bd4-97cd-8e3de114dc27" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-630AwUZUYDw19j4.json
+    > cwd: ~/MyCode
+09:50:40.487 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+09:50:41.242 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+09:50:41.243 [warn] StdErr from Kernel Process 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+09:50:41.243 [warn] StdErr from Kernel Process 0.00s - to python to disable frozen modules.
+09:50:41.243 [warn] StdErr from Kernel Process 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+09:50:41.523 [info] Started Kernel .venv (Python 3.11.8) (pid: 795)
+09:50:41.523 [info] Started new session cf04e454-1548-42df-b837-6830f7af5c9b
+09:50:41.600 [info] Process Execution: ~/.venv/bin/python ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/pythonFiles/printJupyterDataDir.py
+09:50:45.105 [info] End refreshing Kernel Picker (1710323437723)
+09:51:41.835 [info] Handle Execution of Cells 0 for ~/MyCode/Untitled-1.ipynb
+09:51:41.849 [info] Kernel acknowledged execution of cell 0 @ 1710323501848
+09:51:41.852 [info] End cell 0 execution @ 1710323501852, started @ 1710323501848, elapsed time = 0.004s
+09:51:47.609 [info] Handle Execution of Cells 1 for ~/MyCode/Untitled-1.ipynb
+09:51:47.617 [info] Kernel acknowledged execution of cell 1 @ 1710323507617
+09:51:47.621 [info] End cell 1 execution @ 1710323507620, started @ 1710323507617, elapsed time = 0.003s
+09:53:21.854 [info] Start refreshing Interpreter Kernel Picker
+09:53:21.855 [info] Start refreshing Kernel Picker (1710323601855)
+09:53:37.504 [info] Loading webview. View is notset
+09:53:37.505 [info] Loading web view...
+09:53:37.507 [info] Webview panel created.
+09:53:53.100 [info] Web view react rendered
+09:58:19.760 [info] End refreshing Kernel Picker (1710323601855)
+09:58:52.612 [info] Handle Execution of Cells 2 for ~/MyCode/Untitled-1.ipynb
+09:58:52.627 [info] Kernel acknowledged execution of cell 2 @ 1710323932626
+09:58:52.791 [info] End cell 2 execution @ 1710323932790, started @ 1710323932626, elapsed time = 0.164s
+09:58:52.791 [warn] Cancel all remaining cells due to cancellation or failure in execution
+10:01:19.438 [info] Handle Execution of Cells 1 for ~/MyCode/Untitled-1.ipynb
+10:01:19.469 [info] Kernel acknowledged execution of cell 1 @ 1710324079468
+10:01:19.477 [info] End cell 1 execution @ 1710324079476, started @ 1710324079468, elapsed time = 0.008s
+10:01:19.477 [warn] Cancel all remaining cells due to cancellation or failure in execution
+10:02:05.416 [info] Handle Execution of Cells 1 for ~/MyCode/Untitled-1.ipynb
+10:02:05.438 [info] Kernel acknowledged execution of cell 1 @ 1710324125437
+10:02:05.446 [info] End cell 1 execution @ 1710324125446, started @ 1710324125437, elapsed time = 0.009s
+10:02:05.446 [warn] Cancel all remaining cells due to cancellation or failure in execution
+10:02:52.214 [info] Handle Execution of Cells 0,1 for ~/MyCode/Untitled-1.ipynb
+10:02:52.236 [info] Kernel acknowledged execution of cell 0 @ 1710324172235
+10:02:52.244 [info] End cell 0 execution @ 1710324172243, started @ 1710324172235, elapsed time = 0.008s
+10:02:52.244 [warn] Cancel all remaining cells due to cancellation or failure in execution
+10:02:52.244 [info] End cell 1 execution @ undefined, started @ undefined, elapsed time = 0s
+10:04:16.697 [info] Handle Execution of Cells 0 for ~/MyCode/Untitled-1.ipynb
+10:04:16.707 [info] Kernel acknowledged execution of cell 0 @ 1710324256707
+10:04:27.512 [info] End cell 0 execution @ 1710324267512, started @ 1710324256707, elapsed time = 10.805s
+10:07:17.873 [info] Restart requested ~/MyCode/Untitled-1.ipynb
+10:07:29.415 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:07:29.445 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"0f4696b8-94f6-4d9d-a2a8-d38becde48ba" --shell=9007 --transport="tcp" --iopub=9009 --f=~/.local/share/jupyter/runtime/kernel-v2-630e04fJiq4u0sm.json
+    > cwd: ~/MyCode
+10:07:29.629 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+10:07:29.920 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10:07:30.066 [info] Started Kernel .venv (Python 3.11.8) (pid: 1403)
+10:07:30.066 [info] Started new session bc1ab650-e1a0-4450-9c23-76443d16ba54
+10:07:30.068 [info] Shutdown old session cf04e454-1548-42df-b837-6830f7af5c9b
+10:07:30.069 [info] Dispose Kernel process 795.
+10:08:26.270 [info] Dispose Kernel '~/MyCode/Untitled-1.ipynb' associated with '~/MyCode/Untitled-1.ipynb'
+10:08:26.272 [info] Dispose Kernel process 1403.
+10:08:38.557 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for '~/MyCode/Untitled-1.ipynb' (disableUI=true)
+10:08:38.599 [info] Process Execution: ~/.venv/bin/python -m pip list
+10:08:39.307 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:08:39.352 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"a4882dc0-2250-41fd-b1f5-54ad36d8fa94" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-630OmC7anqncx7c.json
+    > cwd: ~/MyCode
+10:08:39.522 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+10:08:39.790 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10:08:39.969 [info] Started Kernel .venv (Python 3.11.8) (pid: 1494)
+10:08:39.969 [info] Started new session 83d5dad6-f22b-45a6-bde6-7d78c9a96793
+10:09:01.096 [info] Handle Execution of Cells 3 for ~/MyCode/Untitled-1.ipynb
+10:09:01.107 [info] Kernel acknowledged execution of cell 3 @ 1710324541107
+10:09:01.268 [info] End cell 3 execution @ 1710324541268, started @ 1710324541107, elapsed time = 0.161s
+10:09:01.269 [warn] Cancel all remaining cells due to cancellation or failure in execution
+10:09:27.417 [info] Handle Execution of Cells 2 for ~/MyCode/Untitled-1.ipynb
+10:09:27.426 [info] Kernel acknowledged execution of cell 2 @ 1710324567426
+10:09:27.816 [info] End cell 2 execution @ 1710324567816, started @ 1710324567426, elapsed time = 0.39s
+10:10:21.663 [info] Handle Execution of Cells 3 for ~/MyCode/Untitled-1.ipynb
+10:10:21.671 [info] Kernel acknowledged execution of cell 3 @ 1710324621671
+10:10:22.031 [info] End cell 3 execution @ 1710324622031, started @ 1710324621671, elapsed time = 0.36s
+10:10:22.031 [warn] Cancel all remaining cells due to cancellation or failure in execution
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

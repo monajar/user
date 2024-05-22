@@ -1,0 +1,48 @@
+2024-05-21 11:09:00.771 [info] Default formatter is set to null for workspace /home/user
+2024-05-21 11:09:00.829 [info] Test server listening.
+2024-05-21 11:09:00.873 [info] > conda info --json
+2024-05-21 11:09:00.880 [info] Python interpreter path: ./.venv/bin/python
+2024-05-21 11:09:00.985 [info] > /usr/bin/python3.10 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 11:09:01.015 [info] > /bin/python3.10 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 11:09:01.074 [info] > /bin/python3.11 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 11:09:01.139 [info] > /bin/python3.8 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 11:09:01.185 [info] > /usr/bin/python3.11 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 11:09:01.218 [info] > /bin/python -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 11:09:01.268 [info] > /bin/python3 -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 11:09:05.606 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-05-21 11:09:05.606 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-05-21 11:09:10.562 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-05-21 11:09:10.563 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-05-21 11:09:10.563 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-05-21 11:09:10.563 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-05-21 11:09:10.563 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-05-21 11:09:10.563 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-05-21 11:09:10.563 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-21 11:09:10.563 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-21 11:09:10.563 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-21 11:09:10.563 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-21 11:09:10.563 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-21 11:09:10.563 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-05-21 11:09:10.601 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/printEnvVariables.py
+2024-05-21 11:09:10.601 [info] shell: bash
+2024-05-21 11:09:10.952 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/printEnvVariables.py
+2024-05-21 11:09:10.952 [info] shell: bash
+2024-05-21 11:09:12.395 [info] Starting Jedi language server for user.
+2024-05-21 11:09:57.740 [info] Found: /bin/python --> /usr/local/bin/python3.10
+2024-05-21 11:09:57.742 [info] Found: /bin/python3 --> /usr/bin/python3.8
+2024-05-21 11:09:57.744 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-05-21 11:09:57.744 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-05-21 11:09:57.744 [info] Found: /bin/python3.8 --> /bin/python3.8
+2024-05-21 11:09:57.782 [info] > ./.venv/bin/python -I ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/get_output_via_markers.py ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/interpreterInfo.py
+2024-05-21 11:09:57.792 [info] Found: /usr/bin/python --> /usr/local/bin/python3.10
+2024-05-21 11:09:57.792 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2024-05-21 11:09:57.793 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-05-21 11:09:57.793 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-05-21 11:09:57.793 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-05-21 11:09:57.799 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.10
+2024-05-21 11:09:57.800 [info] Found: /usr/local/bin/python3.10 --> /usr/local/bin/python3.10
+2024-05-21 11:32:59.217 [info] Discover tests for workspace name: user - uri: /home/user
+2024-05-21 12:37:47.529 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/printEnvVariables.py
+2024-05-21 12:37:47.529 [info] shell: bash
+2024-05-21 12:37:47.552 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/printEnvVariables.py
+2024-05-21 12:37:47.552 [info] shell: bash

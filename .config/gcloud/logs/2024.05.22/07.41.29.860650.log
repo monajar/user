@@ -1,0 +1,14 @@
+2024-05-22 07:41:29,861 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2024-05-22 07:41:29,863 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'list']
+2024-05-22 07:41:29,865 DEBUG    root            Running [gcloud.auth.list] with arguments: [--filter: "status=ACTIVE", --format: "value(account)", --quiet: "True", --verbosity: "warning"]
+2024-05-22 07:41:29,867 DEBUG    root            Chosen display Format:    table[title='Credentialed Accounts'](
+        status.yesno(yes='*', no=''):label=ACTIVE,
+        account
+    ) value(account)
+2024-05-22 07:41:29,868 INFO     root            Display format: "    table[title='Credentialed Accounts'](
+        status.yesno(yes='*', no=''):label=ACTIVE,
+        account
+    ) value(account)"
+2024-05-22 07:41:29,868 INFO     ___FILE_ONLY___ mohamad.alnajar@loreal.com
+
+2024-05-22 07:41:29,868 DEBUG    root            SDK update checks are disabled.

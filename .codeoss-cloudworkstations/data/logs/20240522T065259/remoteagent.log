@@ -1,0 +1,17 @@
+2024-05-22 06:52:59.852 [info] 
+
+
+
+
+2024-05-22 06:52:59.852 [info] Extension host agent started.
+2024-05-22 06:52:59.992 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal
+2024-05-22 06:53:34.706 [info] [127.0.0.1][3ad6d97f][ManagementConnection] New connection established.
+2024-05-22 06:53:35.589 [info] [127.0.0.1][c87cb79c][ExtensionHostConnection] New connection established.
+2024-05-22 06:53:35.685 [info] [127.0.0.1][c87cb79c][ExtensionHostConnection] <415> Launched Extension Host Process.
+2024-05-22 06:54:03.141 [info] [127.0.0.1][3ad6d97f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-22 06:54:03.174 [info] [127.0.0.1][c87cb79c][ExtensionHostConnection] <415> Extension Host Process exited with code: 0, signal: null.
+2024-05-22 06:54:05.728 [info] [127.0.0.1][fa7652f9][ManagementConnection] New connection established.
+2024-05-22 06:54:06.596 [info] [127.0.0.1][a3fe2c5f][ExtensionHostConnection] New connection established.
+2024-05-22 06:54:06.602 [info] [127.0.0.1][a3fe2c5f][ExtensionHostConnection] <534> Launched Extension Host Process.
+2024-05-22 06:54:26.248 [info] [127.0.0.1][a3fe2c5f][ExtensionHostConnection] <534> Kernel: starting (10e895fc-c087-41c7-a4af-e22528134199)
+

@@ -1,0 +1,825 @@
+2024-05-01 10:33:45.970 [info] Extension host with pid 553 started
+2024-05-01 10:33:46.004 [info] Lock '/home/user/.codeoss-cloudworkstations/data/User/workspaceStorage/-5ea9eb7/vscode.lock': Lock acquired.
+2024-05-01 10:33:46.130 [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-05-01 10:33:46.131 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-01 10:33:46.306 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-01 10:33:46.452 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-01 10:33:46.453 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-01 10:33:46.701 [info] Eager extensions activated
+2024-05-01 10:33:46.702 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-01 10:33:46.702 [info] ExtensionService#_doActivateExtension google.cloud-workstations, startup: false, activationEvent: 'onStartupFinished'
+2024-05-01 10:33:46.702 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-01 10:33:46.703 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-01 10:33:46.703 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-05-01 10:33:48.366 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4947
+2024-05-01 10:33:49.521 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4951
+2024-05-01 10:33:52.798 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4956
+2024-05-01 10:34:08.419 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4958
+2024-05-01 10:34:19.424 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-05-01 10:34:19.424 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-05-01 10:34:19.424 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-05-01 10:34:20.622 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-05-01 10:34:21.064 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2024-05-01 10:34:21.837 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2024-05-01 10:34:21.838 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2024-05-01 10:34:23.844 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:34:24.603 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4965
+2024-05-01 10:34:25.380 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:34:32.213 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:34:42.533 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4966
+2024-05-01 10:34:53.731 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:35:17.887 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:35:20.777 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:35:20.877 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:35:28.765 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:35:28.867 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:35:30.863 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:35:30.967 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:35:32.538 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:35:32.640 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:35:34.250 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4968
+2024-05-01 10:35:52.527 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4969
+2024-05-01 10:35:57.983 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4969
+2024-05-01 10:36:12.727 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4970
+2024-05-01 10:36:18.174 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4970
+2024-05-01 10:38:05.390 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:38:05.491 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:38:06.746 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:38:06.846 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:38:09.644 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4971
+2024-05-01 10:38:16.809 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4971
+2024-05-01 10:38:22.292 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4971
+2024-05-01 10:38:27.768 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4971
+2024-05-01 10:38:28.621 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:38:28.781 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:38:33.212 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4971
+2024-05-01 10:38:51.794 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4972
+2024-05-01 10:39:23.541 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:39:23.643 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:39:24.660 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:39:24.660 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:39:24.761 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:39:27.947 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4973
+2024-05-01 10:39:32.877 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:39:32.979 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:39:33.410 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4973
+2024-05-01 10:39:41.956 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4974
+2024-05-01 10:40:00.703 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4974
+2024-05-01 10:40:28.779 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:40:28.880 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:40:45.201 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:40:45.301 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:41:42.241 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4974
+2024-05-01 10:41:51.037 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:41:51.138 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:41:55.733 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4975
+2024-05-01 10:41:58.446 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:41:58.547 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:42:00.259 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:42:00.361 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:42:01.183 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4975
+2024-05-01 10:42:06.635 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4975
+2024-05-01 10:42:12.107 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4975
+2024-05-01 10:42:44.665 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4976
+2024-05-01 10:42:45.405 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:42:45.405 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:42:51.230 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:42:54.154 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:42:56.044 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:42:57.551 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4977
+2024-05-01 10:43:26.664 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:28.095 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:28.987 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:29.088 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:32.402 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4978
+2024-05-01 10:43:37.847 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4978
+2024-05-01 10:43:41.877 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:41.978 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:43.307 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4979
+2024-05-01 10:43:44.331 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:44.952 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:46.638 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:46.742 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:51.541 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:54.005 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4980
+2024-05-01 10:43:57.646 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:43:59.448 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4981
+2024-05-01 10:44:00.510 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:44:01.092 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:44:04.905 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4981
+2024-05-01 10:44:10.361 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4982
+2024-05-01 10:44:26.063 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:44:26.164 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:44:26.322 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4983
+2024-05-01 10:44:31.934 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:44:31.934 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:44:31.934 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:44:32.038 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:44:40.375 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4984
+2024-05-01 10:44:45.826 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4984
+2024-05-01 10:44:51.307 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4985
+2024-05-01 10:44:58.112 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4985
+2024-05-01 10:45:08.230 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:45:08.331 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:45:10.454 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4986
+2024-05-01 10:45:15.935 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4987
+2024-05-01 10:45:17.713 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:45:17.815 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:45:23.781 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4987
+2024-05-01 10:45:29.236 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4988
+2024-05-01 10:45:31.596 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:45:36.062 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:45:39.483 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4988
+2024-05-01 10:45:41.351 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:45:46.291 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:45:48.133 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:45:49.945 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:47:09.431 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:47:11.628 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-01 10:47:12.855 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4988
+2024-05-01 10:52:10.044 [info] Extension host terminating: received terminate message from renderer
+2024-05-01 10:52:10.045 [info] Lock '/home/user/.codeoss-cloudworkstations/data/User/workspaceStorage/-5ea9eb7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-05-01 10:52:10.128 [error] Canceled: Canceled
+	at new g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:57216)
+	at i.U (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83747)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at $.registerCommand.description (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82506)
+	at n.h (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:84283)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83278)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at Object.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:21282)
+	at s.D [as value] (/opt/code-oss/extensions/git/dist/main.js:2:140628)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/opt/code-oss/extensions/git/dist/main.js:2:156416)
+	at /opt/code-oss/extensions/git/dist/main.js:2:161257
+	at Array.forEach (<anonymous>)
+	at g.dispose (/opt/code-oss/extensions/git/dist/main.js:2:161243)
+	at v.<anonymous> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3521)
+	at v.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3618)
+	at v.<anonymous> (/opt/code-oss/extensions/git/dist/main.js:2:142640)
+	at v.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3618)
+	at o (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9846)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-01 10:52:10.129 [error] Canceled: Canceled
+	at new g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:57216)
+	at i.U (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83747)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at $.registerCommand.description (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82506)
+	at n.h (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:84283)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83278)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at Object.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:21282)
+	at set b [as b] (/opt/code-oss/extensions/github/dist/extension.js:2:24828)
+	at /opt/code-oss/extensions/github/dist/extension.js:2:25469
+	at s.value (/opt/code-oss/extensions/git/dist/main.js:2:229868)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/opt/code-oss/extensions/git/dist/main.js:2:156416)
+	at /opt/code-oss/extensions/git/dist/main.js:2:161257
+	at Array.forEach (<anonymous>)
+	at g.dispose (/opt/code-oss/extensions/git/dist/main.js:2:161243)
+	at v.<anonymous> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3521)
+	at v.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3618)
+	at v.<anonymous> (/opt/code-oss/extensions/git/dist/main.js:2:142640)
+	at v.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3618)
+	at o (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9846)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-01 10:52:10.132 [error] Canceled: Canceled
+	at new g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:57216)
+	at i.U (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83747)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at $.registerCommand.description (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82506)
+	at n.h (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:84283)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83278)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at Object.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:21282)
+	at w (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1081:41198)
+	at h (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:18411)
+	at s (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:16438)
+	at /home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1041:19501)
+	at o (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9846)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-01 10:52:10.132 [error] Canceled: Canceled
+	at new g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:57216)
+	at i.U (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83747)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at $.registerCommand.description (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82506)
+	at n.h (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:84283)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83278)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at Object.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:21282)
+	at w (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1081:41198)
+	at h (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:18411)
+	at s (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:16438)
+	at /home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1041:19501)
+	at o (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9846)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-01 10:52:10.134 [error] Canceled: Canceled
+	at new g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:57216)
+	at i.U (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83747)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at $.registerCommand.description (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82506)
+	at n.h (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:84283)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83278)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at Object.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:21282)
+	at w (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1081:41198)
+	at h (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:18411)
+	at s (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:663:16438)
+	at /home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal/dist/gitlens.js:1041:19501)
+	at o (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9846)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-01 10:52:10.134 [error] Canceled: Canceled
+	at new g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:57216)
+	at i.U (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83747)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at $.registerCommand.description (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82506)
+	at n.h (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:84283)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83278)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at Object.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:21282)
+	at ep.executeCommand (/home/user/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:17:7443)
+	at e_.set (/home/user/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:299554)
+	at Sk.updateContextOfActiveNotebookKernel (/home/user/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:496820)
+	at Sk.onDidKernelStatusChange (/home/user/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:498409)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at uv.<anonymous> (/home/user/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:39580)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at /home/user/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:17:234906
+	at Yg.dispose (/home/user/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:17:235008)
+	at /home/user/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:2:2352947
+	at Array.map (<anonymous>)
+	at Ac.dispose (/home/user/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:2:2352937)
+	at Module.AT (/home/user/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:650470)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9651)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-01 10:52:10.153 [info] Extension host with pid 553 exiting with code 0

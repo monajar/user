@@ -1,0 +1,49 @@
+Code OSS for Cloud Workstations (1.83.1, 80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev, desktop)
+Jupyter Extension Version: 2023.9.100.
+Python Extension Version: 2024.2.1.
+Platform: linux (x64).
+Workspace folder /home/user, Home = /home/user
+06:54:14.197 [info] <username> belongs to experiment group 'NewJupyterSession'
+06:54:14.632 [info] Start refreshing Kernel Picker (1716360854632)
+06:54:14.637 [info] Using Pylance
+06:54:20.129 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for '~/MyCode/RTOD/Main.ipynb' (disableUI=true)
+06:54:21.774 [info] Start refreshing Interpreter Kernel Picker
+06:54:22.531 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0794a48074346415659e43d7e58b86c42e53a201bc834bf9f8686bd52abf9a607.~/.venv/python.~/.venv/python.-m#ipykernel_launcher  (Python Path: ~/.venv/bin/python, Venv, .venv, 3.11.8) for '~/MyCode/PR/PR_Model_GA_Data.ipynb' (disableUI=true)
+06:54:22.624 [info] Process Execution: ~/.venv/bin/python -m pip list
+06:54:24.274 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+06:54:24.301 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"aeca7d7c-fa21-4979-84ef-4defa5c2e473" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-5344JNeAa4BjtK8.json
+    > cwd: ~/MyCode/RTOD
+06:54:24.590 [info] Process Execution: ~/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+06:54:24.615 [info] Process Execution: ~/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"21be931e-97f6-48b3-8faf-a90544aa5e7b" --shell=9010 --transport="tcp" --iopub=9012 --f=~/.local/share/jupyter/runtime/kernel-v2-534IiIfUEtVwSEt.json
+    > cwd: ~/MyCode/PR
+06:54:24.771 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+06:54:24.801 [info] ipykernel version & path 6.29.3, ~/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/.venv/bin/python
+06:54:25.885 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+06:54:25.885 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+06:54:26.162 [info] Dispose Kernel '~/MyCode/RTOD/Main.ipynb' associated with '~/MyCode/RTOD/Main.ipynb'
+06:54:26.166 [info] Dispose Kernel process 769.
+06:54:26.190 [error] Kernel Launcher. launch, Class name = ey, completed in 6025ms, has a falsy return value, Arg 1: "~/.venv/python.~/.venv/python.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "~/MyCode/RTOD/Main.ipynb", Arg 4: "~/MyCode/RTOD", Arg 5: "" [Canceled: Canceled
+	at e.throwIfCanceled (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:2:2324370)
+	at ey.launchProcess (~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:97288)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/out/extension.node.js:24:95733]
+06:54:26.253 [info] Started Kernel .venv (Python 3.11.8) (pid: 776)
+06:54:26.254 [info] Started new session 10e895fc-c087-41c7-a4af-e22528134199
+06:54:26.321 [info] Process Execution: ~/.venv/bin/python ~/.codeoss-cloudworkstations/extensions/ms-toolsai.jupyter-2023.9.100-universal/pythonFiles/printJupyterDataDir.py
+06:55:11.740 [info] End refreshing Kernel Picker (1716360854632)
+07:14:57.467 [info] Handle Execution of Cells 6 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+07:14:57.482 [info] Kernel acknowledged execution of cell 6 @ 1716362097481
+07:14:59.036 [info] End cell 6 execution @ 1716362099035, started @ 1716362097481, elapsed time = 1.554s
+07:15:14.192 [info] Handle Execution of Cells 8 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+07:15:14.199 [info] Kernel acknowledged execution of cell 8 @ 1716362114199
+07:15:15.054 [info] End cell 8 execution @ 1716362115053, started @ 1716362114199, elapsed time = 0.854s
+07:15:15.054 [warn] Cancel all remaining cells due to cancellation or failure in execution
+07:15:44.650 [info] Handle Execution of Cells 8 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+07:15:44.659 [info] Kernel acknowledged execution of cell 8 @ 1716362144658
+07:15:45.290 [info] End cell 8 execution @ 1716362145290, started @ 1716362144658, elapsed time = 0.632s

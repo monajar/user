@@ -1,0 +1,15 @@
+I0422 08:51:20.109600     548 serve.go:43] language_server (Dec  5 2023 13:36:57 -0800, cl:588173277 baseline:588173277)
+I0422 08:51:20.109636     548 serve.go:44] Command line: ["/home/user/.cache/cloud-code/language-server-binaries/ai-companion/linux_amd64/language_server" "-logtostderr"]
+I0422 08:51:20.112119     548 life_cycle.go:81] Initializing. Architecture: "amd64", Operating system: "linux"
+I0422 08:51:20.199671     548 configuration.go:124] product updateChannel will be used
+I0422 08:51:20.199703     548 configuration.go:351] language thresholds: map[]
+I0422 08:51:20.199724     548 configuration.go:540] atlas codeCompletion llm options: {MaxTokens:0xc000783a64 Temp:<nil> Samples:0xc000783a60 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc000783a68 StopSequences:map[] DataFilePromptLines:<nil>}
+I0422 08:51:20.199752     548 configuration.go:540] atlas codeGeneration llm options: {MaxTokens:0xc000783ad0 Temp:<nil> Samples:0xc000783ac0 Prompt:<nil> EnablePrompt:<nil> PromptOverride: PostProcess:0xc000783ad4 StopSequences:map[*:[[eod] [EOF] [pre] [suf] [mid]]] DataFilePromptLines:0xc000783ac8}
+I0422 08:51:20.199897     548 configuration.go:183] Configured settings for atlasOpts: {"Project":"spmena-sandbox-gcc-apac-dv","LogPrompt":true,"Complete":{"MaxTokens":64,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":null,"DataFilePromptLines":null},"Generate":{"MaxTokens":512,"Temp":null,"Samples":4,"Prompt":null,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":{"*":["[eod]","[EOF]","[pre]","[suf]","[mid]"]},"DataFilePromptLines":5},"UseTypeoverCache":true}
+I0422 08:51:20.199907     548 configuration.go:185] Configured settings for opts: &{trace:false atlasAddr:cloudaicompanion.googleapis.com:443 autoGen:false invokeGen:true extraneousPromptFilesLimit:-1 codeCacheMaxEntries:1024 completionOpts:{debounce:50000000 throttle:100000000 minScoreThreshold:-10 languageThresholds:map[] enableThresholds:true commentCompletion:false citationLengthThreshold:-1 enableRecitations:true citationLogFilePath: repeatedStringFilterThreshold:60} useRest:<nil> enableNotebooks:false}
+I0422 08:51:20.199938     548 configuration.go:187] Configured settings for canCancelRequests: true
+I0422 08:51:20.199943     548 configuration.go:189] Configured settings for contextPromptOpts: &{Endpoint:}
+I0422 08:51:20.199949     548 configuration.go:190] Configured settings for enableRemoteContext: false
+I0422 08:51:20.201744     548 atlas.go:48] Using gRPC to access Atlas
+I0422 08:51:20.202449     548 atlas.go:150] CompleteCode request: parent:"projects/spmena-sandbox-gcc-apac-dv/locations/global"  request_id:"cloudcode-304090e5-915c-41a8-85c8-198cd6a77890"  prompt:{experience:COMPLETE  prefix:"healthCheck"  temperature:0.2  max_output_tokens:64  expected_samples:4}
+I0422 08:51:20.202621     548 atlas.go:161] Atlas GenerateCode request ID: cloudcode-304090e5-915c-41a8-85c8-198cd6a77890

@@ -1,0 +1,24 @@
+2024-05-21 11:07:34.769 [info] 
+
+
+
+
+2024-05-21 11:07:34.784 [info] Extension host agent started.
+2024-05-21 11:07:34.931 [info] Deleted uninstalled extension from disk grapecity.gc-excelviewer /home/user/.codeoss-cloudworkstations/extensions/grapecity.gc-excelviewer-4.2.58-universal
+2024-05-21 11:07:34.933 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-14.9.1-universal
+2024-05-21 11:07:59.703 [info] [127.0.0.1][ce51f593][ManagementConnection] New connection established.
+2024-05-21 11:08:00.564 [info] [127.0.0.1][303ea978][ExtensionHostConnection] New connection established.
+2024-05-21 11:08:00.679 [info] [127.0.0.1][303ea978][ExtensionHostConnection] <442> Launched Extension Host Process.
+2024-05-21 11:08:28.962 [info] [127.0.0.1][ce51f593][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-21 11:08:29.044 [info] [127.0.0.1][303ea978][ExtensionHostConnection] <442> Extension Host Process exited with code: 0, signal: null.
+2024-05-21 11:08:31.479 [info] [127.0.0.1][ef264ff2][ManagementConnection] New connection established.
+2024-05-21 11:08:32.382 [info] [127.0.0.1][f2b398e0][ExtensionHostConnection] New connection established.
+2024-05-21 11:08:32.393 [info] [127.0.0.1][f2b398e0][ExtensionHostConnection] <559> Launched Extension Host Process.
+2024-05-21 12:40:59.583 [info] Uninstalling extension from the profile: eamodio.gitlens@15.0.3 file:///home/user/.codeoss-cloudworkstations/data/User/profiles/-16dae614/extensions.json
+2024-05-21 12:40:59.668 [info] Marked extension as uninstalled eamodio.gitlens-15.0.3-universal
+2024-05-21 12:41:00.861 [info] Successfully uninstalled extension from the profile eamodio.gitlens@15.0.3 file:///home/user/.codeoss-cloudworkstations/data/User/profiles/-16dae614/extensions.json
+2024-05-21 12:41:08.852 [info] [127.0.0.1][ef264ff2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-21 12:41:09.100 [info] [127.0.0.1][f2b398e0][ExtensionHostConnection] <559> Extension Host Process exited with code: 0, signal: null.
+2024-05-21 12:41:12.664 [info] [127.0.0.1][4b8ea528][ManagementConnection] New connection established.
+2024-05-21 12:41:13.675 [info] [127.0.0.1][e1ed325a][ExtensionHostConnection] New connection established.
+2024-05-21 12:41:13.684 [info] [127.0.0.1][e1ed325a][ExtensionHostConnection] <1704> Launched Extension Host Process.

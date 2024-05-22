@@ -1,0 +1,1301 @@
+2024-05-21 11:08:36.985 [info] Extension host with pid 559 started
+2024-05-21 11:08:37.010 [info] Lock '/home/user/.codeoss-cloudworkstations/data/User/workspaceStorage/-467de5fe/vscode.lock': Lock acquired.
+2024-05-21 11:08:37.366 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2024-05-21 11:08:37.367 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-21 11:08:37.754 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-21 11:08:38.497 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-21 11:08:38.497 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-21 11:08:38.973 [info] Eager extensions activated
+2024-05-21 11:08:38.973 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-21 11:08:38.974 [info] ExtensionService#_doActivateExtension google.cloud-workstations, startup: false, activationEvent: 'onStartupFinished'
+2024-05-21 11:08:38.974 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-21 11:08:38.975 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-21 11:08:38.975 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-05-21 11:08:41.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5577
+2024-05-21 11:08:42.149 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2024-05-21 11:08:42.149 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2024-05-21 11:08:42.151 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2024-05-21 11:08:42.151 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2024-05-21 11:08:42.470 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-21 11:08:43.005 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-05-21 11:08:43.006 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-05-21 11:08:43.548 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5579
+2024-05-21 11:08:50.840 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5587
+2024-05-21 11:08:56.799 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5590
+2024-05-21 11:09:03.974 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5595
+2024-05-21 11:09:11.179 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5598
+2024-05-21 11:09:16.855 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5598
+2024-05-21 11:09:22.543 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5598
+2024-05-21 11:09:28.215 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5598
+2024-05-21 11:09:33.926 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5598
+2024-05-21 11:09:39.611 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5598
+2024-05-21 11:09:45.271 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5598
+2024-05-21 11:09:50.940 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5598
+2024-05-21 11:09:56.607 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5599
+2024-05-21 11:09:58.813 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-21 11:10:02.281 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5599
+2024-05-21 11:10:05.971 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-21 11:10:06.462 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-21 11:10:06.937 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-21 11:10:07.039 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-21 11:10:07.970 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5599
+2024-05-21 11:10:13.631 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5599
+2024-05-21 11:26:52.094 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:26:57.757 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:27:03.419 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:27:09.062 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:27:14.739 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:27:20.402 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:30:55.511 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:32:56.222 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:33:01.881 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:33:07.555 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:33:13.235 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:33:20.325 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:33:26.037 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:33:31.714 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:33:37.364 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:33:43.025 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 11:40:49.712 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 12:37:12.331 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 12:37:18.019 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5601
+2024-05-21 12:37:23.678 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5602
+2024-05-21 12:37:29.375 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5603
+2024-05-21 12:37:35.048 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5604
+2024-05-21 12:37:40.742 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5604
+2024-05-21 12:37:46.434 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5604
+2024-05-21 12:37:52.104 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5604
+2024-05-21 12:37:57.832 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5604
+2024-05-21 12:38:11.449 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5604
+2024-05-21 12:38:17.466 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5604
+2024-05-21 12:38:23.208 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5604
+2024-05-21 12:38:30.144 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5604
+2024-05-21 12:38:47.412 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5604
+2024-05-21 12:39:08.137 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5604
+2024-05-21 12:39:25.573 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:39:34.505 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:39:40.615 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:39:46.310 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:39:52.003 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:39:57.686 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:40:03.379 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:40:09.055 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:40:14.754 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:40:20.451 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:40:21.516 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-21 12:40:22.522 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-21 12:40:27.826 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:40:33.500 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:40:39.175 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:40:44.864 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:40:50.577 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:40:56.294 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5605
+2024-05-21 12:40:58.330 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-21 12:41:01.960 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5608
+2024-05-21 12:41:07.652 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5608
+2024-05-21 12:41:08.851 [info] Extension host terminating: received terminate message from renderer
+2024-05-21 12:41:08.855 [info] Lock '/home/user/.codeoss-cloudworkstations/data/User/workspaceStorage/-467de5fe/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-05-21 12:41:08.895 [error] An error occurred when deactivating the subscriptions for extension 'eamodio.gitlens':
+2024-05-21 12:41:08.895 [error] TypeError: P.dispose is not a function
+	at o (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9846)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2024-05-21 12:41:08.985 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.985 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.986 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.986 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.986 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.986 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.986 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.987 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.987 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.987 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.987 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.987 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.987 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.988 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.988 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.988 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.988 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.988 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.988 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.989 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.989 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.989 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.989 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.989 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.989 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.989 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.990 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.990 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.990 [error] Canceled: Canceled
+	at Object.I [as $4] (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8031)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:08.998 [error] Canceled: Canceled
+	at new g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:57216)
+	at i.U (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83747)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at $.registerCommand.description (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82506)
+	at n.h (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:84283)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83278)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at Object.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:21282)
+	at s.D [as value] (/opt/code-oss/extensions/git/dist/main.js:2:140628)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/opt/code-oss/extensions/git/dist/main.js:2:156416)
+	at /opt/code-oss/extensions/git/dist/main.js:2:161257
+	at Array.forEach (<anonymous>)
+	at g.dispose (/opt/code-oss/extensions/git/dist/main.js:2:161243)
+	at v.<anonymous> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3521)
+	at v.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3618)
+	at v.<anonymous> (/opt/code-oss/extensions/git/dist/main.js:2:142640)
+	at v.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3618)
+	at o (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9846)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:09.002 [error] Canceled: Canceled
+	at new g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:57216)
+	at i.U (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83747)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at $.registerCommand.description (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82506)
+	at n.h (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:84283)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83278)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at Object.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:21282)
+	at set b [as b] (/opt/code-oss/extensions/github/dist/extension.js:2:24828)
+	at /opt/code-oss/extensions/github/dist/extension.js:2:25469
+	at s.value (/opt/code-oss/extensions/git/dist/main.js:2:229868)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/opt/code-oss/extensions/git/dist/main.js:2:156416)
+	at /opt/code-oss/extensions/git/dist/main.js:2:161257
+	at Array.forEach (<anonymous>)
+	at g.dispose (/opt/code-oss/extensions/git/dist/main.js:2:161243)
+	at v.<anonymous> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3521)
+	at v.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3618)
+	at v.<anonymous> (/opt/code-oss/extensions/git/dist/main.js:2:142640)
+	at v.dispose (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:121:3618)
+	at o (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9846)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:09.010 [error] Canceled: Canceled
+	at new g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:57216)
+	at i.U (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83747)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at $.registerCommand.description (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82506)
+	at n.h (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:84283)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83278)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at Object.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:21282)
+	at w (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1453:42279)
+	at h (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1453:47318)
+	at ActionRunners._updateContextKeys (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:18425)
+	at s (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:16869)
+	at RegisteredActionRunner.unregister (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:17012)
+	at RegisteredActionRunner.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:15665)
+	at ActionRunners.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:16452)
+	at /home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1412:20105
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1412:20087)
+	at o (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9846)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:09.011 [error] Canceled: Canceled
+	at new g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:57216)
+	at i.U (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83747)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at $.registerCommand.description (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82506)
+	at n.h (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:84283)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83278)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at Object.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:21282)
+	at w (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1453:42279)
+	at h (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1453:47318)
+	at ActionRunners._updateContextKeys (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:18425)
+	at s (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:16869)
+	at RegisteredActionRunner.unregister (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:17012)
+	at RegisteredActionRunner.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:15665)
+	at ActionRunners.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:16452)
+	at /home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1412:20105
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1412:20087)
+	at o (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9846)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:09.011 [error] Canceled: Canceled
+	at new g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:57216)
+	at i.U (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83747)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at $.registerCommand.description (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:82506)
+	at n.h (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:84283)
+	at n.g (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83278)
+	at n.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:125:83185)
+	at Object.executeCommand (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:21282)
+	at w (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1453:42279)
+	at h (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1453:47318)
+	at ActionRunners._updateContextKeys (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:18425)
+	at s (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:16869)
+	at RegisteredActionRunner.unregister (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:17012)
+	at RegisteredActionRunner.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:15665)
+	at ActionRunners.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1099:16452)
+	at /home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1412:20105
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/user/.codeoss-cloudworkstations/extensions/eamodio.gitlens-15.0.3-universal/dist/gitlens.js:1412:20087)
+	at o (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:9846)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:153:7848)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at m.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:19173)
+	at c.acceptFrame (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:18979)
+	at a.n (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:17612)
+	at /opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:14959
+	at Socket.f (/opt/code-oss/out/vs/workbench/api/node/extensionHostProcess.js:150:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-05-21 12:41:09.039 [info] Extension host with pid 559 exiting with code 0

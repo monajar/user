@@ -1,0 +1,25 @@
+2024-05-22 06:54:14,138 DEBUG    root            Loaded Command Group: ['gcloud', 'version']
+2024-05-22 06:54:14,140 DEBUG    root            Running [gcloud.version] with arguments: [--format: "json"]
+2024-05-22 06:54:14,151 DEBUG    root            Chosen display Format:flattened[no-pad,separator=" "] json
+2024-05-22 06:54:14,152 INFO     root            Display format: "flattened[no-pad,separator=" "] json"
+2024-05-22 06:54:14,152 INFO     ___FILE_ONLY___ {
+  "Google Cloud SDK": "463.0.0",
+  "alpha": "2024.02.07",
+  "beta": "2024.02.07",
+  "bigtable": "",
+  "bq": "2.0.101",
+  "bundled-python3-unix": "3.11.7",
+  "cbt": "1.17.2",
+  "cloud-datastore-emulator": "2.3.1",
+  "core": "2024.02.07",
+  "gcloud-crc32c": "1.0.0",
+  "gke-gcloud-auth-plugin": "0.5.8",
+  "gsutil": "5.27",
+  "kpt": "1.0.0-beta.49",
+  "kubectl": "1.27.9",
+  "local-extract": "1.5.9",
+  "minikube": "1.32.0",
+  "skaffold": "2.9.0"
+}
+2024-05-22 06:54:14,153 INFO     ___FILE_ONLY___ 
+

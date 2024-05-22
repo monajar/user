@@ -1,0 +1,6 @@
+{
+    "cloudWorkstations.portsView.enabled": true,
+    "workbench.colorTheme": "Abyss",
+    "cloudcode.duetAI.project": "spmena-sandbox-gcc-apac-dv",
+    "cloudcode.project": "spmena-sandbox-gcc-apac-dv"
+}
