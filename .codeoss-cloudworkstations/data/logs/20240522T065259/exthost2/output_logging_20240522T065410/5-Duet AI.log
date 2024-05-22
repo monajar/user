@@ -30,3 +30,19 @@ I0522 07:15:57.317480     671 configuration.go:187] Configured settings for canC
 I0522 07:15:57.317484     671 configuration.go:189] Configured settings for contextPromptOpts: &{Endpoint:}
 I0522 07:15:57.317490     671 configuration.go:190] Configured settings for enableRemoteContext: false
 W0522 07:45:53.777694     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:47:47.100948     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:47:54.774183     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:48:09.557094     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:48:19.902783     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:48:24.917663     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:49:08.828341     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:49:24.010224     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:49:26.348647     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:49:33.815105     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:50:00.622051     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:50:03.584086     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:50:05.568260     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:50:07.940977     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:50:23.685652     671 server.go:340] unknown method "textDocument/documentLink"
+E0522 07:50:26.951742     671 conversation.go:330] Error getting document contents for request #185: trying to get document with URI uncached
+E0522 07:50:26.951826     671 server.go:194] error fulfilling request #185, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/PR/PR_Model_GA_Data.ipynb#X11sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached

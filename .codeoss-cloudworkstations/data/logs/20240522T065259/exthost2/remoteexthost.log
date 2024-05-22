@@ -295,3 +295,10 @@
 2024-05-22 07:47:14.465 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4281
 2024-05-22 07:47:19.613 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4281
 2024-05-22 07:47:24.768 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4281
+2024-05-22 07:50:26.919 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4281
+2024-05-22 07:50:27.973 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
