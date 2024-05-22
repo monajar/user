@@ -37,3 +37,6 @@
 2024-05-22 06:54:24.547 [info] shell: bash
 2024-05-22 07:19:15.857 [info] Discover tests for workspace name: user - uri: /home/user
 2024-05-22 07:24:55.409 [info] Send text to terminal: source /home/user/.venv/bin/activate
+2024-05-22 07:58:05.011 [info] Discover tests for workspace name: undefined - uri: /User/profiles/-16dae614/settings.json
+2024-05-22 08:02:25.307 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.codeoss-cloudworkstations/extensions/ms-python.python-2024.2.1-universal/pythonFiles/printEnvVariables.py
+2024-05-22 08:02:25.307 [info] shell: bash

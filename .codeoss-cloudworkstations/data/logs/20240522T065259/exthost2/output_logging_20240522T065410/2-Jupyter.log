@@ -53,3 +53,33 @@ Workspace folder /home/user, Home = /home/user
 07:55:40.706 [info] Handle Execution of Cells 6 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
 07:55:40.713 [info] Kernel acknowledged execution of cell 6 @ 1716364540713
 07:55:40.717 [info] End cell 6 execution @ 1716364540717, started @ 1716364540713, elapsed time = 0.004s
+07:58:16.422 [info] Handle Execution of Cells 6 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+07:58:16.430 [info] Kernel acknowledged execution of cell 6 @ 1716364696430
+07:58:16.433 [info] End cell 6 execution @ 1716364696433, started @ 1716364696430, elapsed time = 0.003s
+07:58:21.099 [info] Handle Execution of Cells 8 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+07:58:21.107 [info] Kernel acknowledged execution of cell 8 @ 1716364701107
+07:58:21.747 [info] End cell 8 execution @ 1716364701747, started @ 1716364701107, elapsed time = 0.64s
+07:58:27.972 [info] Handle Execution of Cells 10 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+07:58:27.985 [info] Kernel acknowledged execution of cell 10 @ 1716364707985
+07:58:28.019 [info] End cell 10 execution @ 1716364708019, started @ 1716364707985, elapsed time = 0.034s
+08:02:12.366 [info] Handle Execution of Cells 9 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+08:02:12.375 [info] Kernel acknowledged execution of cell 9 @ 1716364932374
+08:02:13.622 [info] End cell 9 execution @ 1716364933622, started @ 1716364932374, elapsed time = 1.248s
+08:02:16.203 [info] Handle Execution of Cells 8 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+08:02:16.210 [info] Kernel acknowledged execution of cell 8 @ 1716364936210
+08:02:16.889 [info] End cell 8 execution @ 1716364936889, started @ 1716364936210, elapsed time = 0.679s
+08:02:20.236 [info] Loading webview. View is notset
+08:02:20.237 [info] Loading web view...
+08:02:20.238 [info] Webview panel created.
+08:02:21.595 [info] Web view react rendered
+08:02:24.623 [info] Loading webview. View is notset
+08:02:24.624 [info] Loading web view...
+08:02:24.626 [info] Webview panel created.
+08:02:25.360 [info] Process Execution: ~/.venv/bin/python -c "import pandas;print(pandas.__version__)"
+08:02:25.998 [info] Web view react rendered
+08:03:02.397 [info] Handle Execution of Cells 22 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+08:03:02.419 [info] Kernel acknowledged execution of cell 22 @ 1716364982418
+08:03:02.731 [info] End cell 22 execution @ 1716364982731, started @ 1716364982418, elapsed time = 0.313s
+08:03:42.906 [info] Handle Execution of Cells 23 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+08:03:42.915 [info] Kernel acknowledged execution of cell 23 @ 1716365022914
+08:03:43.176 [info] End cell 23 execution @ 1716365023176, started @ 1716365022914, elapsed time = 0.262s

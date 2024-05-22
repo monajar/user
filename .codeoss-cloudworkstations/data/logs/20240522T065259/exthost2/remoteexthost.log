@@ -390,3 +390,106 @@
 	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
 	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
 	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 07:58:04.375 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-22 07:58:15.199 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 07:58:15.667 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 07:58:24.931 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 07:58:25.035 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 07:58:29.286 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 07:58:29.388 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 07:58:34.138 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 08:01:40.069 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 08:01:41.920 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 08:02:12.704 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 08:02:16.042 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 08:02:16.145 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 08:02:25.959 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 08:02:43.280 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 08:02:59.259 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 08:03:19.591 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-22 08:03:19.692 [error] Error: trying to get document with URI uncached
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12746829
+	at re (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12747123)
+	at /opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741907
+	at Immediate.<anonymous> (/opt/code-oss/extensions/googlecloudtools.cloudcode/dist/extension.js:8:12741927)
+	at process.processImmediate (node:internal/timers:476:21)
