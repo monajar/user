@@ -47,3 +47,9 @@ Workspace folder /home/user, Home = /home/user
 07:15:44.650 [info] Handle Execution of Cells 8 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
 07:15:44.659 [info] Kernel acknowledged execution of cell 8 @ 1716362144658
 07:15:45.290 [info] End cell 8 execution @ 1716362145290, started @ 1716362144658, elapsed time = 0.632s
+07:55:34.389 [info] Handle Execution of Cells 6 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+07:55:34.403 [info] Kernel acknowledged execution of cell 6 @ 1716364534403
+07:55:34.406 [info] End cell 6 execution @ 1716364534405, started @ 1716364534403, elapsed time = 0.002s
+07:55:40.706 [info] Handle Execution of Cells 6 for ~/MyCode/PR/PR_Model_GA_Data.ipynb
+07:55:40.713 [info] Kernel acknowledged execution of cell 6 @ 1716364540713
+07:55:40.717 [info] End cell 6 execution @ 1716364540717, started @ 1716364540713, elapsed time = 0.004s

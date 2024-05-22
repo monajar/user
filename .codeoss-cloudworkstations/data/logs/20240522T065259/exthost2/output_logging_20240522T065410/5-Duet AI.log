@@ -53,3 +53,23 @@ W0522 07:51:37.854952     671 server.go:340] unknown method "textDocument/docume
 W0522 07:51:42.318003     671 server.go:340] unknown method "textDocument/documentLink"
 E0522 07:51:43.577098     671 conversation.go:330] Error getting document contents for request #253: trying to get document with URI uncached
 E0522 07:51:43.577190     671 server.go:194] error fulfilling request #253, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/PR/PR_Model_GA_Data.ipynb#X11sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
+W0522 07:51:58.782816     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:52:00.888826     671 server.go:340] unknown method "textDocument/documentLink"
+E0522 07:52:01.861955     671 conversation.go:330] Error getting document contents for request #257: trying to get document with URI uncached
+E0522 07:52:01.862053     671 server.go:194] error fulfilling request #257, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/PR/PR_Model_GA_Data.ipynb#X11sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
+W0522 07:52:10.020451     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:52:12.116916     671 server.go:340] unknown method "textDocument/documentLink"
+E0522 07:52:20.989933     671 conversation.go:330] Error getting document contents for request #261: trying to get document with URI uncached
+E0522 07:52:20.990020     671 server.go:194] error fulfilling request #261, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/PR/PR_Model_GA_Data.ipynb#X11sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
+W0522 07:55:26.274301     671 server.go:340] unknown method "textDocument/documentLink"
+W0522 07:55:27.090689     671 server.go:340] unknown method "textDocument/documentLink"
+E0522 07:55:32.246969     671 conversation.go:330] Error getting document contents for request #268: trying to get document with URI uncached
+E0522 07:55:32.247211     671 server.go:194] error fulfilling request #268, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/PR/PR_Model_GA_Data.ipynb#X11sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
+E0522 07:55:33.705480     671 conversation.go:330] Error getting document contents for request #269: trying to get document with URI uncached
+E0522 07:55:33.705589     671 server.go:194] error fulfilling request #269, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/PR/PR_Model_GA_Data.ipynb#W6sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
+W0522 07:56:47.204065     671 server.go:340] unknown method "textDocument/documentLink"
+E0522 07:57:23.342723     671 conversation.go:330] Error getting document contents for request #273: trying to get document with URI uncached
+E0522 07:57:23.342818     671 server.go:194] error fulfilling request #273, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/PR/PR_Model_GA_Data.ipynb#W6sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
+W0522 07:57:27.283011     671 server.go:340] unknown method "textDocument/documentLink"
+E0522 07:57:29.015921     671 conversation.go:330] Error getting document contents for request #276: trying to get document with URI uncached
+E0522 07:57:29.015989     671 server.go:194] error fulfilling request #276, {DocumentURI:vscode-notebook-cell://80-apmena-wkst-mohamad-alnajar-ase1-pd.cluster-srw6vkxqifcyqw3qfmyw52ug72.cloudworkstations.dev/home/user/MyCode/PR/PR_Model_GA_Data.ipynb#W6sdnNjb2RlLXJlbW90ZQ%3D%3D SelectedRange:{Start:{Line:0 Character:0} End:{Line:0 Character:0}}}: trying to get document with URI uncached
